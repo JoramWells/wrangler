@@ -1,0 +1,6810 @@
+
+
+<div style="background-color: transparent;font-weight: bold">SERVICES COSTING REPORT </div>
+<table border="1" cellspacing="0" cellpadding="0" width="100%">
+<tbody><tr>
+<th>Service Category</th>
+<th>Service Name</th>
+<th>Service Cost (Cash)</th>
+<th>Service Cost (Corporate)</th>
+<th>Service Cost (Insurance)</th>
+<th>Service Cost (Foreigner)</th>
+</tr>
+
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>BRACES FOR BOTH UPPER AND LOWER JAWS</td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>BRACES FOR LOWER JAWS</td>
+<td style="text-align: right">60,000.00 </td>
+<td style="text-align: right">100,000.00 </td>
+<td style="text-align: right">100,000.00 </td>
+<td style="text-align: right">10,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>BRACES FOR UPPER JAWS</td>
+<td style="text-align: right">60,000.00 </td>
+<td style="text-align: right">70,000.00 </td>
+<td style="text-align: right">70,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>COMPLETE DENTURE</td>
+<td style="text-align: right">12,000.00 </td>
+<td style="text-align: right">20,000.00 </td>
+<td style="text-align: right">20,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>COMPLETE DENTURE RELINING</td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>COMPLETE DENTURE REPAIR</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>COMPLEX SCALING</td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">4,000.00 </td>
+<td style="text-align: right">4,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>CROWN &amp;BRIDGE</td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>DENTAL CONSULTATION FEE</td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>DENTAL INCISION AND DRAINAGE</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>DENTAL SCALING (COMPLEX)</td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">4,000.00 </td>
+<td style="text-align: right">4,000.00 </td>
+<td style="text-align: right">4,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>DENTURE REVIEW (FROM OUT)</td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>DISIMPACTION COMPLEX</td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">5,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>DISIMPACTION SIMPLE</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">4,000.00 </td>
+<td style="text-align: right">4,000.00 </td>
+<td style="text-align: right">4,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>DISIMPATION &amp; X-RAY</td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">4,000.00 </td>
+<td style="text-align: right">4,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>DRY SOCKET</td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>EXTRACTION</td>
+<td style="text-align: right">350.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>EXTRACTION(MILK TOOTH)</td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>FABRICATION OF CROWNS AND BRIDGE - INPATIENT</td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>FILLING</td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">4,000.00 </td>
+<td style="text-align: right">4,000.00 </td>
+<td style="text-align: right">4,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>FUSION UNIVERSAL COMPOSITE KIT (SMALL)</td>
+<td style="text-align: right">6,000.00 </td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>GIC FUJI 9 A2</td>
+<td style="text-align: right">6,200.00 </td>
+<td style="text-align: right">6,200.00 </td>
+<td style="text-align: right">6,200.00 </td>
+<td style="text-align: right">6,200.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>HALF COMPLETE DENTURE</td>
+<td style="text-align: right">7,000.00 </td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>INTERMAXILLARY FIXATION (IMF)</td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">8,000.00 </td>
+<td style="text-align: right">8,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>MASKING PER TOOTH</td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">6,000.00 </td>
+<td style="text-align: right">6,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>MOUTH GUARD</td>
+<td style="text-align: right">12,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>ORTHODONTICS</td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">25,000.00 </td>
+<td style="text-align: right">25,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>PARTIAL DENTURE 1ST</td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">5,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>PARTIAL DENTURE RELINING</td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>PARTIAL DENTURE REPAIR</td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>PARTIAL DENTURE(ADDITION)</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>POLISHING</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>RECONCILED PAYMENT</td>
+<td style="text-align: right">1,340.00 </td>
+<td style="text-align: right">1,340.00 </td>
+<td style="text-align: right">1,340.00 </td>
+<td style="text-align: right">1,340.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>ROOTCANAL (POSTEROR)</td>
+<td style="text-align: right">4,000.00 </td>
+<td style="text-align: right">8,000.00 </td>
+<td style="text-align: right">8,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>ROOTCANAL(ANTERIOR)</td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">6,000.00 </td>
+<td style="text-align: right">6,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>SCALLING</td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">4,000.00 </td>
+<td style="text-align: right">4,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>SIMPLE SPLINTING</td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>STUDY MODEL</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>TOOTH ADDITION IN EXISTING COMPLETE DENTURE</td>
+<td style="text-align: right">800.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>TOOTH ADDITION IN EXISTING PARTIAL DENTURE</td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>XRAY (IN)</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DENTAL TREATMENTS</td>
+<td>XRAY (OUT)</td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DOCTORS FEES</td>
+<td>CONSULTANTS FEE - ENT SPECIALIST</td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DOCTORS FEES</td>
+<td>CONSULTANTS FEE - GYNAECOLOGIST</td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DOCTORS FEES</td>
+<td>CONSULTANTS FEE - NEPHROLOGIST</td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DOCTORS FEES</td>
+<td>CONSULTANTS FEE - PHYSICIAN</td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DOCTORS FEES</td>
+<td>CONSULTANTS FEE - SURGEON</td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DOCTORS FEES</td>
+<td>REDUCTION FEE(PEDIATRICS)</td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DOCTORS FEES</td>
+<td>REDUCTION FEES(ADULT)</td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>DOCTORS FEES</td>
+<td>SURGEON FEE ON CERVICAL BIOBPSY / COLPOLSCOPY</td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>ENT</td>
+<td>-0.5 DIOPTER LENSES,FRAME, CLOTH,IPS HARD CASE.</td>
+<td style="text-align: right">6,850.00 </td>
+<td style="text-align: right">6,850.00 </td>
+<td style="text-align: right">6,850.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>ENT</td>
+<td>+0.25 DIOPTER LENSES,FRAME, CLOTH,IPS HARD CASE.</td>
+<td style="text-align: right">7,000.00 </td>
+<td style="text-align: right">7,000.00 </td>
+<td style="text-align: right">7,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>ENT</td>
+<td>+2.00 DIOPTER LENSES, FRAME, CLOTH, HARD CASE</td>
+<td style="text-align: right">8,500.00 </td>
+<td style="text-align: right">8,500.00 </td>
+<td style="text-align: right">8,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>ENT</td>
+<td>ENT SYRINGING</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>ENT</td>
+<td>EYE IRRIGATION</td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>ENT</td>
+<td>NUTRITION CONSULTATION FEE( PEADS)</td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>-</td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>0.5 ADD 300PHT MAR</td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">4,000.00 </td>
+<td style="text-align: right">4,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>ANAESTHETIST CONSULTATION</td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">4,500.00 </td>
+<td style="text-align: right">4,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>ANTI NUCLEAR ANTIBODIES</td>
+<td style="text-align: right">6,500.00 </td>
+<td style="text-align: right">7,000.00 </td>
+<td style="text-align: right">7,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>ASCITIC TAPPING</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>BIOPSY</td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">7,000.00 </td>
+<td style="text-align: right">7,000.00 </td>
+<td style="text-align: right">7,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>BIOPSY 2</td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>BIOPSY NEEDLE</td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>BIOPSY(FNA)</td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">4,500.00 </td>
+<td style="text-align: right">4,500.00 </td>
+<td style="text-align: right">4,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>BLOOD SCREENING PINTS</td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>BLOOD SUGAR MACHINE</td>
+<td style="text-align: right">4,000.00 </td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>BLOOD TRANSFUSSION</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>BODY STORAGE (MORGUE )</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>BREAST BIOPSY AND EXCISION</td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">12,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>CATHETERIZATION</td>
+<td style="text-align: right">400.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>CHEMICAL CAUTERY</td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>CHEST TUBE INSERTION</td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">25,000.00 </td>
+<td style="text-align: right">25,000.00 </td>
+<td style="text-align: right">25,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>CIRCUMSISSION</td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>CLEANING AND DRESSING (LARGE)</td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>CLEANING AND DRESSING (MEDIUM)</td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>CLEANING AND DRESSING (SMALL)</td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>CLEANING AND DRESSING(WITH SSD) - LARGE</td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>CLEANING AND DRESSING(WITH SSD) - MEDIUM</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>CLEANING AND DRESSING(WITH SSD) - SMALL</td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>CONDOM CATHETERS</td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>CONJUCTIVAL GROWTH EXCISION</td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>CONSULTANTS FEE - CIRCUMCISION</td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>CONSULTANTS FEE - PAEDITRICIAN</td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>CONSULTANTS FEE - PAEDITRICIAN     (REVIEW)</td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>CONSULTATION EMERGENCY</td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>CONSULTATION NIGHT</td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>CONSULTATION REVISIT</td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>CORN REMOVAL</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">2,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>CORNEAL FOREIGN BODY REMOVAL</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>CREEP BANDAGE</td>
+<td style="text-align: right">80.00 </td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>CREPE BANDAGE</td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>DENTAL MEDICATIN FORM</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>DEXTROSE 10%</td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>DEXTROSE 5%</td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>DEXTROSE 50%</td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>DEXTROSE NORMAL SALINE (DNS)</td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>DI- OXYGEN PER HOUR(REFINED)</td>
+<td style="text-align: right">250.00 </td>
+<td style="text-align: right">250.00 </td>
+<td style="text-align: right">250.00 </td>
+<td style="text-align: right">250.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>DOCTORS FEE</td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">7,500.00 </td>
+<td style="text-align: right">7,500.00 </td>
+<td style="text-align: right">7,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>DOUBLE CARVED TRANCHEASTOMY</td>
+<td style="text-align: right">18,000.00 </td>
+<td style="text-align: right">18,000.00 </td>
+<td style="text-align: right">18,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>EAR SYRINGING</td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>ECG / ECHO</td>
+<td style="text-align: right">8,500.00 </td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">10,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>ELECTROCARDIOGRAPHY (ECG)</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">2,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>ENT CONSULTATION</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>ENT CONSULTATION (IP)</td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">4,500.00 </td>
+<td style="text-align: right">4,500.00 </td>
+<td style="text-align: right">4,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>EPILATION</td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>ERYTHROPOIETIN INJECTION 4000 IU</td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>EXCISION</td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">10,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>EXPLORATION AND REMOVAL OF FOREGIN BODIESS (SURGEON)</td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">8,000.00 </td>
+<td style="text-align: right">8,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>FACE MASK</td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>FB NOSE/EGR</td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>FILE</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>FILLING P3 FORM</td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>FOLY CATHERS</td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>FOREIGN BODY REMOVAL (LARGE)</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>FOREIGN BODY REMOVAL (SMALL)</td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>FREIGHT CHARGES</td>
+<td style="text-align: right">325.00 </td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>FUNDOSCOPY</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>G TUBE</td>
+<td style="text-align: right">6,500.00 </td>
+<td style="text-align: right">6,500.00 </td>
+<td style="text-align: right">6,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>GANGLION CYCT REMOVAL</td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">5,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>GASTRIC LAVAGE (PROCEDURE)</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>GAUZE ROLL WHOLE</td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>GLUCOSE STRIPS</td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>GYNACOLOGY CONSULTATION</td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>GYNAECOLGY CONSULTATION (IP)</td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">4,500.00 </td>
+<td style="text-align: right">4,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>HEARING AND ASSESSMENT TEST</td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>HEMORRHOIDECTOMY</td>
+<td style="text-align: right">70,000.00 </td>
+<td style="text-align: right">150,000.00 </td>
+<td style="text-align: right">150,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>HERNIORRHAPHY</td>
+<td style="text-align: right">30,000.00 </td>
+<td style="text-align: right">45,000.00 </td>
+<td style="text-align: right">45,000.00 </td>
+<td style="text-align: right">45,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>HERNIORRHAPHY/PROSTATE BIOPSY</td>
+<td style="text-align: right">50,000.00 </td>
+<td style="text-align: right">100,000.00 </td>
+<td style="text-align: right">100,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>HIP SPICA CAST BY SPECIALIST</td>
+<td style="text-align: right">5,500.00 </td>
+<td style="text-align: right">5,500.00 </td>
+<td style="text-align: right">5,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>I AND D PSOAS ABSCESS UNDER G.A</td>
+<td style="text-align: right">25,000.00 </td>
+<td style="text-align: right">30,000.00 </td>
+<td style="text-align: right">30,000.00 </td>
+<td style="text-align: right">30,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>IMPLANT REMOVAL</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>INCISION AND DRAINAGE</td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">400.00 </td>
+<td style="text-align: right">400.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>INCISION AND DRAINAGE UNDER LA</td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>INCISION AND DRAINAGE UNDER SEDATION</td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>INJECTION SERVICE CHARGE</td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>INPATIENT INSURANCE CONSULTATION FEE</td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">5,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>ISOLATION (FOR ONBSERVATION)</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>LARYNGOSCOPY</td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>MARSUPIALISATION</td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">6,000.00 </td>
+<td style="text-align: right">6,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>MATERNITY PACKAGE</td>
+<td style="text-align: right">1,150.00 </td>
+<td style="text-align: right">1,150.00 </td>
+<td style="text-align: right">1,150.00 </td>
+<td style="text-align: right">1,150.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>MEDICAL CERTIFICATION</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>MEDICAL FORM</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>MEDICAL REPORT/ FAIRMONT</td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>MESH</td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>MONITOR TIME PER HOUR 1/2 MIN</td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">300.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>MVA</td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>MYOPIA 0.50PH TMR</td>
+<td style="text-align: right">7,500.00 </td>
+<td style="text-align: right">9,000.00 </td>
+<td style="text-align: right">9,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>NEBULIZATIION</td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>NEBULIZATION    </td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">800.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>NG TUBE</td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>NORMAL SALINE (N/S)</td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>NUTRION COUNSELLING</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>NUTRITIONIST CONSULTATION(ADULT)</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>OPTHAMOLOGIST CONSULTATION (IP)</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>OPTICIAN CONSULTATION (INPATIENT)</td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">4,500.00 </td>
+<td style="text-align: right">4,500.00 </td>
+<td style="text-align: right">4,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>ORTHOPEADIC (PI)</td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">4,500.00 </td>
+<td style="text-align: right">4,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>OXYGEN PER HR 1/2 MIN</td>
+<td style="text-align: right">75.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">150.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>OXYGEN PER LITRE (PER HOUR)</td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">200.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>OXYGEN+TRANSPORT PACKAGE THEATRE SERVICE</td>
+<td style="text-align: right">7,500.00 </td>
+<td style="text-align: right">7,500.00 </td>
+<td style="text-align: right">7,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>PACKING WITH LIQUID PARRAFIN</td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>PAEDITRICIAN CONSULTATION (IP)</td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">4,500.00 </td>
+<td style="text-align: right">4,500.00 </td>
+<td style="text-align: right">4,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>PAP SMEAR</td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>PGX LENSES,PLANO IN D/FRAME, CLOTH,IPS HARD CASE.</td>
+<td style="text-align: right">6,000.00 </td>
+<td style="text-align: right">6,800.00 </td>
+<td style="text-align: right">6,800.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>PHOTOCOPY</td>
+<td style="text-align: right">10.00 </td>
+<td style="text-align: right">10.00 </td>
+<td style="text-align: right">10.00 </td>
+<td style="text-align: right">10.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>PHOTOTHERAPHY</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>PHYSIOTHERAOHY SESSION</td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>PHYSIOTHERAPY</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>PLASTER 4</td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>PSYCHOLOGICAL COUNSELLING PER SESSION</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>PTA (AUDIOMETRY)</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>PTERYGIUM EXCISION</td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>R/L HARTMANS SOLUION</td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>READERS</td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>REFRACTION</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>REMOVAL OF IUCD</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>RESUSCITATION SERVICES</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>SPECIAL CONSULTATION SERVICES</td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">4,000.00 </td>
+<td style="text-align: right">4,000.00 </td>
+<td style="text-align: right">4,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>SPECIALISED (HOSPITAL) SERVICES FOR COVID 19</td>
+<td style="text-align: right">2,200.00 </td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">3,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>SPECIALIST CONSULTATION</td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>SPECTACLE FRAMES</td>
+<td style="text-align: right">4,500.00 </td>
+<td style="text-align: right">4,500.00 </td>
+<td style="text-align: right">4,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>SPECTACLES AND FRAMES</td>
+<td style="text-align: right">7,500.00 </td>
+<td style="text-align: right">7,500.00 </td>
+<td style="text-align: right">7,500.00 </td>
+<td style="text-align: right">7,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>STITCH REMOVAL</td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>STITCHING LARGE</td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>STITCHING MEDIUM</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>STITCHING SMALL</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>STRAPPPING WHOLE</td>
+<td style="text-align: right">120.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>SUCTION/SYRINING</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>SUNCTION TUBE ADULTS</td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>SUNCTION TUBE PAEDS</td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>SUPRA PUBIC CATHETERISATION</td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>SURGEON</td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">10,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>SURGEONS FEE</td>
+<td style="text-align: right">35,000.00 </td>
+<td style="text-align: right">35,000.00 </td>
+<td style="text-align: right">35,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>SURGICAL DEBRIDMENT / SURGICAL TOILETTING UNDER GA</td>
+<td style="text-align: right">20,000.00 </td>
+<td style="text-align: right">30,000.00 </td>
+<td style="text-align: right">30,000.00 </td>
+<td style="text-align: right">30,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>SUTURING &amp; DRESSING</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>SUTURING (DEEP/MUTLIPLE CUTS)</td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>SUTURING (SMALL CUT)</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>SYRINGES 2ML</td>
+<td style="text-align: right">10.00 </td>
+<td style="text-align: right">15.00 </td>
+<td style="text-align: right">15.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>TEST TUBE INSERTION</td>
+<td style="text-align: right">20,000.00 </td>
+<td style="text-align: right">100,000.00 </td>
+<td style="text-align: right">35,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>TESTICULAR TORSION FOR ORCHIDECTOMY</td>
+<td style="text-align: right">40,000.00 </td>
+<td style="text-align: right">60,000.00 </td>
+<td style="text-align: right">60,000.00 </td>
+<td style="text-align: right">60,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>THEATRE</td>
+<td style="text-align: right">30,000.00 </td>
+<td style="text-align: right">50,000.00 </td>
+<td style="text-align: right">50,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>THEATRE FEE</td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>TONGUE TIE</td>
+<td style="text-align: right">8,000.00 </td>
+<td style="text-align: right">12,000.00 </td>
+<td style="text-align: right">12,000.00 </td>
+<td style="text-align: right">120,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>TONGUE TIE RELEASE</td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>VAC DRESSING SET</td>
+<td style="text-align: right">22,600.00 </td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>VULVAL BIOPSY</td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">12,000.00 </td>
+<td style="text-align: right">12,000.00 </td>
+<td style="text-align: right">12,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>WALKING FRAME</td>
+<td style="text-align: right">5,500.00 </td>
+<td style="text-align: right">6,500.00 </td>
+<td style="text-align: right">6,500.00 </td>
+<td style="text-align: right">6,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>WEIGHT CHECK</td>
+<td style="text-align: right">20.00 </td>
+<td style="text-align: right">20.00 </td>
+<td style="text-align: right">20.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>GENERAL PROCEDURES</td>
+<td>X-RAY REPORTING</td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>IMPLANT &amp; AESTHETIC</td>
+<td>IMPLANTS</td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">20,000.00 </td>
+<td style="text-align: right">20,000.00 </td>
+<td style="text-align: right">20,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>INPATIENT PROCEDURES</td>
+<td>RIPPLE MATRESS SERVICE</td>
+<td style="text-align: right">250.00 </td>
+<td style="text-align: right">250.00 </td>
+<td style="text-align: right">250.00 </td>
+<td style="text-align: right">250.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB PROCEDURES</td>
+<td>CEA MARKERS</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB PROCEDURES</td>
+<td>D DIMER</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>(R.B.S/F.B.S) RANDOM BLOOD SUGAR</td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>ALBUMIN</td>
+<td style="text-align: right">400.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>ALKALINE PHOSPHATASE</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">1,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>ALT/SGPT</td>
+<td style="text-align: right">400.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>ANAL SWABS</td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">509.00 </td>
+<td style="text-align: right">500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>ANC PROFILE</td>
+<td style="text-align: right">450.00 </td>
+<td style="text-align: right">1,300.00 </td>
+<td style="text-align: right">1,300.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>ANC PROFILE LINDA MAMA</td>
+<td style="text-align: right">800.00 </td>
+<td style="text-align: right">800.00 </td>
+<td style="text-align: right">800.00 </td>
+<td style="text-align: right">800.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>ANTI-STREPTOLYSIN O TEST(ASOT)</td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">250.00 </td>
+<td style="text-align: right">250.00 </td>
+<td style="text-align: right">250.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>APTT</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">1,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>AST/SGOT</td>
+<td style="text-align: right">400.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>B/S FOR MPS(MALARIA)</td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">250.00 </td>
+<td style="text-align: right">250.00 </td>
+<td style="text-align: right">250.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>BIOPSY ANALYSIS</td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">4,000.00 </td>
+<td style="text-align: right">4,000.00 </td>
+<td style="text-align: right">4,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>BLOOD GROUP</td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">250.00 </td>
+<td style="text-align: right">250.00 </td>
+<td style="text-align: right">250.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>BRUCELLOSIS  (BAT)</td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">350.00 </td>
+<td style="text-align: right">350.00 </td>
+<td style="text-align: right">350.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>C-REACTIVE PROTEIN(CRP)</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>CA119</td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">3,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>CA125</td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">2,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>CALCIUM</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">1,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>CHOLESTEROL</td>
+<td style="text-align: right">400.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>COAGULATION PROFILE</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>COOMBS TEST(ICT/DCT)</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">700.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>COVID 19 ANTIGEN TEST</td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">3,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>COVID 19 ANTIGEN TEST FOR STAFF</td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>CREATININE</td>
+<td style="text-align: right">350.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>CROSSMATCH</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">700.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>CSF ANALYSIS</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,300.00 </td>
+<td style="text-align: right">1,300.00 </td>
+<td style="text-align: right">1,300.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>CULTURE AND SENSITIVITY</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,400.00 </td>
+<td style="text-align: right">1,400.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>CYTOLOGY</td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>DIRECT BILIRUBIN</td>
+<td style="text-align: right">400.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>DU TEST</td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">400.00 </td>
+<td style="text-align: right">400.00 </td>
+<td style="text-align: right">400.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>ELECTROLYTES(CL,NA,K)</td>
+<td style="text-align: right">800.00 </td>
+<td style="text-align: right">1,300.00 </td>
+<td style="text-align: right">1,300.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>ERYTHROCYTE SEDIMENTATION RATE(ESR)</td>
+<td style="text-align: right">250.00 </td>
+<td style="text-align: right">350.00 </td>
+<td style="text-align: right">350.00 </td>
+<td style="text-align: right">350.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>FT3</td>
+<td style="text-align: right">800.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">2,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>FT4</td>
+<td style="text-align: right">800.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">2,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>FULL HAEMOGRAM(FHG)</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">700.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>G.G.T</td>
+<td style="text-align: right">400.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>GONNORHEA ANTIGEN</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">700.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>GRAM STAIN</td>
+<td style="text-align: right">400.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>GRAN STRAINING</td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">450.00 </td>
+<td style="text-align: right">450.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>H . PYLORI ANTIGEN</td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">900.00 </td>
+<td style="text-align: right">900.00 </td>
+<td style="text-align: right">900.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>H.I.V TESTING</td>
+<td style="text-align: right">1.00 </td>
+<td style="text-align: right">1.00 </td>
+<td style="text-align: right">1.00 </td>
+<td style="text-align: right">1.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>HAEMOGLOBIN(HB) LEVEL</td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>HB ELECTROPHORESIS</td>
+<td style="text-align: right">3,250.00 </td>
+<td style="text-align: right">3,750.00 </td>
+<td style="text-align: right">3,750.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>HBA1C</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>HDL</td>
+<td style="text-align: right">400.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>HEPATITIS A(HAV)</td>
+<td style="text-align: right">400.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>HEPATITIS B(HBSAG)</td>
+<td style="text-align: right">350.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>HEPATITIS C(HCV)</td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>HIGH VAGINAL SWAB(HVS) MICROSCOPY</td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">400.00 </td>
+<td style="text-align: right">400.00 </td>
+<td style="text-align: right">400.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>HISTOLOGY</td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">5,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>INORGANIC PHOSPHORUS</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">1,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>INR</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">1,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>KIDNEY FUNCTION TESTS(UECS)</td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>LDL</td>
+<td style="text-align: right">400.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>LIPID PROFILE</td>
+<td style="text-align: right">1,600.00 </td>
+<td style="text-align: right">2,400.00 </td>
+<td style="text-align: right">2,400.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>LIVER FUNCTION TEST (LFTS)</td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>MAGNESIUM</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">1,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>MYCARDIAL ENZYME PANEL</td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>O.G.T.T</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,350.00 </td>
+<td style="text-align: right">1,350.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>OCCULT BLOOD</td>
+<td style="text-align: right">400.00 </td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">1,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>PBF</td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">2,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>PREGNANCY TEST(PDT)</td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">150.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>PROCALCITONIN</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>PSA TITER</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>PUS SWAB</td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">400.00 </td>
+<td style="text-align: right">400.00 </td>
+<td style="text-align: right">400.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>RHEUMATIOD FACTOR (RF)</td>
+<td style="text-align: right">250.00 </td>
+<td style="text-align: right">350.00 </td>
+<td style="text-align: right">350.00 </td>
+<td style="text-align: right">350.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>ROTA/ADENO VIRUS</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">700.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>SALMONELLA ANTIGEN TEST (SAT)</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">700.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>SEMENALYSIS</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">700.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>SERUM AMYLASE</td>
+<td style="text-align: right">750.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>SERUM CRAG</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>SERUM LIPASE</td>
+<td style="text-align: right">950.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>STOOL ANALYSIS</td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">200.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>T3</td>
+<td style="text-align: right">800.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>T4</td>
+<td style="text-align: right">800.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>THYROID FUNCTION TESTS(TFTS)</td>
+<td style="text-align: right">2,400.00 </td>
+<td style="text-align: right">3,600.00 </td>
+<td style="text-align: right">3,600.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>TOTAL BILIRUBIN</td>
+<td style="text-align: right">400.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>TOTAL PROTEIN</td>
+<td style="text-align: right">400.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>TRIGLYCERIDES</td>
+<td style="text-align: right">400.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>TROPONIN I</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>TSH</td>
+<td style="text-align: right">800.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">2,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>U/ECS( RENAL TEST)</td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>UREA</td>
+<td style="text-align: right">350.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>URETHRAL SWAB</td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>URIC ACID</td>
+<td style="text-align: right">400.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>URINALYSIS</td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">300.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>VDRL/SYPHILLIS</td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">250.00 </td>
+<td style="text-align: right">250.00 </td>
+<td style="text-align: right">250.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>VITAMIN D</td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">1,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>VITB12</td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">3,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>LAB TESTS</td>
+<td>ZN STAIN</td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>MATERNITY</td>
+<td>EPISIOTOMY</td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">700.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>MATERNITY</td>
+<td>NORMAL DELIVERY</td>
+<td style="text-align: right">8,000.00 </td>
+<td style="text-align: right">12,000.00 </td>
+<td style="text-align: right">8,000.00 </td>
+<td style="text-align: right">12,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>MATERNITY</td>
+<td>VE</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>MCH</td>
+<td>ANC CHECKUP</td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>MCH</td>
+<td>CHECK HB</td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>MCH</td>
+<td>COMPLEMENTARY FEEDING COUNSELLING</td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>MCH</td>
+<td>DEWORMERS ADULTS</td>
+<td style="text-align: right">30.00 </td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>MCH</td>
+<td>DEWORMERS CHILDREN</td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>MCH</td>
+<td>FHG</td>
+<td style="text-align: right">400.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>MCH</td>
+<td>HEALTH EDUCATION</td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>MCH</td>
+<td>HVS</td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">400.00 </td>
+<td style="text-align: right">400.00 </td>
+<td style="text-align: right">400.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>MCH</td>
+<td>IMMUNISATION</td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>MCH</td>
+<td>MCH CONSULTATION</td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>MCH</td>
+<td>MILESTONE ASSESSMENT</td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>MCH</td>
+<td>NATURAL FAMILY PLANNING COUNSELLING</td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>MCH</td>
+<td>NUTRITION COUNSELLING[ANC PT]</td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>MCH</td>
+<td>OBSERVATION CHECK</td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>MCH</td>
+<td>POSTNATAL CHECK UP</td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>MCH</td>
+<td>TETANUS VACCINE</td>
+<td style="text-align: right">70.00 </td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>MCH</td>
+<td>VIT. A SUPPLEMENTATION</td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>NON PHARMACEUTICALS</td>
+<td>BABY CLOTHES (ASSORTED)</td>
+<td style="text-align: right">1,350.00 </td>
+<td style="text-align: right">1,350.00 </td>
+<td style="text-align: right">1,350.00 </td>
+<td style="text-align: right">1,350.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>NON PHARMACEUTICALS</td>
+<td>BABY PACKAGE</td>
+<td style="text-align: right">1,150.00 </td>
+<td style="text-align: right">1,150.00 </td>
+<td style="text-align: right">1,150.00 </td>
+<td style="text-align: right">1,150.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>NON PHARMACEUTICALS</td>
+<td>BLOOD GIVING SET</td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">150.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>NON PHARMACEUTICALS</td>
+<td>CANNULAR</td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">150.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>NON PHARMACEUTICALS</td>
+<td>CREPE BANDAGE SZ 1</td>
+<td style="text-align: right">80.00 </td>
+<td style="text-align: right">120.00 </td>
+<td style="text-align: right">120.00 </td>
+<td style="text-align: right">120.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>NON PHARMACEUTICALS</td>
+<td>CREPE BANDAGE SZ 2</td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">140.00 </td>
+<td style="text-align: right">140.00 </td>
+<td style="text-align: right">140.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>NON PHARMACEUTICALS</td>
+<td>CREPE BANDAGE SZ 3</td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">200.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>NON PHARMACEUTICALS</td>
+<td>CREPE BANDAGE SZ 4</td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">250.00 </td>
+<td style="text-align: right">250.00 </td>
+<td style="text-align: right">250.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>NON PHARMACEUTICALS</td>
+<td>FOLLEY CATHETER</td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>NON PHARMACEUTICALS</td>
+<td>GAUZE BANDAGE</td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">100.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>NON PHARMACEUTICALS</td>
+<td>GAUZE ROLL</td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>NON PHARMACEUTICALS</td>
+<td>GIVING SET</td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>NON PHARMACEUTICALS</td>
+<td>INSULIN SYRINGES</td>
+<td style="text-align: right">20.00 </td>
+<td style="text-align: right">30.00 </td>
+<td style="text-align: right">30.00 </td>
+<td style="text-align: right">30.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>NON PHARMACEUTICALS</td>
+<td>LATEX GLOVES</td>
+<td style="text-align: right">400.00 </td>
+<td style="text-align: right">450.00 </td>
+<td style="text-align: right">450.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>NON PHARMACEUTICALS</td>
+<td>LINERS RED LARGE</td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">50.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>NON PHARMACEUTICALS</td>
+<td>NASAL GASTRIC TUBE</td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">150.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>NON PHARMACEUTICALS</td>
+<td>NASAL PRONGS</td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>NON PHARMACEUTICALS</td>
+<td>OXYGEN MASK</td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">300.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>NON PHARMACEUTICALS</td>
+<td>PANTIES</td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>NON PHARMACEUTICALS</td>
+<td>PANTY</td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>NON PHARMACEUTICALS</td>
+<td>PAPER GLOVES</td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">200.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>NON PHARMACEUTICALS</td>
+<td>STERILE SURGICAL GLOVES</td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">200.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>NON PHARMACEUTICALS</td>
+<td>STRAPPING ORDINARY</td>
+<td style="text-align: right">120.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">150.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>NON PHARMACEUTICALS</td>
+<td>STRAPPING SPECIAL</td>
+<td style="text-align: right">250.00 </td>
+<td style="text-align: right">350.00 </td>
+<td style="text-align: right">350.00 </td>
+<td style="text-align: right">350.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>NON PHARMACEUTICALS</td>
+<td>SUCTION TUBE</td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">150.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>NON PHARMACEUTICALS</td>
+<td>SURGICAL BLADE</td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">100.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>NON PHARMACEUTICALS</td>
+<td>SUTURE POLYGLATIN</td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">400.00 </td>
+<td style="text-align: right">400.00 </td>
+<td style="text-align: right">400.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>NON PHARMACEUTICALS</td>
+<td>URINE BAG</td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">150.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>NON PHARMACEUTICALS</td>
+<td>VAGINAL SPECULUM</td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">450.00 </td>
+<td style="text-align: right">450.00 </td>
+<td style="text-align: right">450.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>OPD </td>
+<td>OUTPATIENT CAPITATION PACKAGE</td>
+<td style="text-align: right">1.00 </td>
+<td style="text-align: right">1.00 </td>
+<td style="text-align: right">1.00 </td>
+<td style="text-align: right">1.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>OPTICAL</td>
+<td>OPTICAL LENSES</td>
+<td style="text-align: right">9,100.00 </td>
+<td style="text-align: right">12,000.00 </td>
+<td style="text-align: right">12,000.00 </td>
+<td style="text-align: right">12,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>OTHER</td>
+<td>ORCHIDECTOMY</td>
+<td style="text-align: right">20,000.00 </td>
+<td style="text-align: right">20,000.00 </td>
+<td style="text-align: right">20,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHARMACY</td>
+<td>LINERS BLACK LARGE</td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">50.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHARMACY</td>
+<td>LINERS BLACK SMALL</td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">50.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHARMACY</td>
+<td>LINERS RED SMALL</td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">50.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHARMACY</td>
+<td>LINERS YELLOW LARGE</td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">50.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHARMACY</td>
+<td>LINERS YELLOW SMALL</td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">50.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIO</td>
+<td>ARMSLING POUCH</td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIO</td>
+<td>CERVICAL IMMOBILIZER (PHILADELPHIA)</td>
+<td style="text-align: right">2,600.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIO</td>
+<td>CLARVICLE BRACE</td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIO</td>
+<td>DRY NEEDLING</td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIO</td>
+<td>ELBOW CRUTCH SINGLE - OLD</td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIO</td>
+<td>ELECTROTHERAPY</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIO</td>
+<td>EXTENDED WRIST SUPPORT</td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIO</td>
+<td>FROG SPLINT</td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIO</td>
+<td>GYM SERVICE</td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIO</td>
+<td>HARD CERVICLE COLLAR</td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIO</td>
+<td>KNEE IMMOBILIZER (ONE)/HINGED KNEE BRACE</td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIO</td>
+<td>LUMBAR SUPPORT</td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">4,500.00 </td>
+<td style="text-align: right">4,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIO</td>
+<td>LYMPHODERMA STOCKINGS</td>
+<td style="text-align: right">4,000.00 </td>
+<td style="text-align: right">4,500.00 </td>
+<td style="text-align: right">4,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIO</td>
+<td>MALLET FINGER SPLINT</td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIO</td>
+<td>MANUAL THERAPY/FM</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIO</td>
+<td>ORTHOPEDIC MANUAL THERAPY</td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIO</td>
+<td>ORTHOPEDIC MANUAL THERAPY/FM</td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIO</td>
+<td>PAEDIATRIC SOFT CERVICAL COLLAR</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIO</td>
+<td>PAEDIATRIC WALKING FRAME</td>
+<td style="text-align: right">7,500.00 </td>
+<td style="text-align: right">8,000.00 </td>
+<td style="text-align: right">8,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIO</td>
+<td>PLASTER  8</td>
+<td style="text-align: right">220.00 </td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIO</td>
+<td>PLASTER APPLICATION</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">700.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIO</td>
+<td>PLASTER REMOVAL</td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIO</td>
+<td>QUADRIPOD STAND</td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIO</td>
+<td>RANGE OF MOTION ELBOW BRACE (ROM)</td>
+<td style="text-align: right">8,000.00 </td>
+<td style="text-align: right">9,000.00 </td>
+<td style="text-align: right">9,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIO</td>
+<td>RANGE OF MOTION KNEE BRACE</td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">12,000.00 </td>
+<td style="text-align: right">12,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIO</td>
+<td>REHABILITATION ADULTS</td>
+<td style="text-align: right">400.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIO</td>
+<td>REHABILITATION CHILDREN</td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIO</td>
+<td>REHABILITATION INPATIENT</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIO</td>
+<td>SHOULDER IMMOBILIZER</td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIO</td>
+<td>SILICON INSOLES</td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">4,500.00 </td>
+<td style="text-align: right">4,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIO</td>
+<td>SKIN TRACTION KIT</td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">3,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIO</td>
+<td>SOFT CERVICLE COLLAR</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIO</td>
+<td>SQUEEZE</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIO</td>
+<td>SQUIZEE BALL</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIO</td>
+<td>THUMB SPICA SPLINT</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIO</td>
+<td>TRIPOD STAND</td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIO</td>
+<td>VERICOSE STOCKINGS</td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIO</td>
+<td>WALKING FRAME WITH WHEELS</td>
+<td style="text-align: right">6,000.00 </td>
+<td style="text-align: right">6,500.00 </td>
+<td style="text-align: right">6,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIO</td>
+<td>WRIST SPLINT</td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIOTHERAPY</td>
+<td>ARMSLING</td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">200.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIOTHERAPY</td>
+<td>ELBOW CRUTCH PAIR - OLD</td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIOTHERAPY</td>
+<td>ORTHOBAND</td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">200.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIOTHERAPY</td>
+<td>PLASTER  6</td>
+<td style="text-align: right">180.00 </td>
+<td style="text-align: right">250.00 </td>
+<td style="text-align: right">250.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PHYSIOTHERAPY</td>
+<td>WALIKING STICK</td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>ADENOETONSILECTOMY</td>
+<td style="text-align: right">69,500.00 </td>
+<td style="text-align: right">69,500.00 </td>
+<td style="text-align: right">69,500.00 </td>
+<td style="text-align: right">69,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>ADMISSION FEE</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>AMBULANCE</td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">10,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>ANNUAL MEDICAL CARD FEE</td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>BABY CARE NIGHT</td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">2,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>CERVICAL CANCER SCREENING(VIA/VILI)</td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>COLONOSCOPY</td>
+<td style="text-align: right">20,000.00 </td>
+<td style="text-align: right">30,000.00 </td>
+<td style="text-align: right">30,000.00 </td>
+<td style="text-align: right">50,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>CONSULTANTS FEE - ORTHOPAEDIC SURGEON</td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>DEBRIDEMENT LARGE</td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">4,000.00 </td>
+<td style="text-align: right">4,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>DEBRIDEMENT MEDIUM</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>DEBRIDEMENT SMALL</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>DERMATOLOGIST REVIEW</td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">2,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>DOCTORS FEE BIOPSY</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>DOCTORS FEE CS</td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">5,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>ENT SURGEON FEE</td>
+<td style="text-align: right">34,750.00 </td>
+<td style="text-align: right">34,750.00 </td>
+<td style="text-align: right">34,750.00 </td>
+<td style="text-align: right">34,750.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>EXCISION LARGE</td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>EXCISION MEDIUM</td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>EXCISION SMALL</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>EXLAP</td>
+<td style="text-align: right">60,000.00 </td>
+<td style="text-align: right">60,000.00 </td>
+<td style="text-align: right">60,000.00 </td>
+<td style="text-align: right">60,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>FESS</td>
+<td style="text-align: right">55,000.00 </td>
+<td style="text-align: right">55,000.00 </td>
+<td style="text-align: right">55,000.00 </td>
+<td style="text-align: right">55,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>FIBROADENOMA EXCISION</td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">25,000.00 </td>
+<td style="text-align: right">25,000.00 </td>
+<td style="text-align: right">25,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>GANGLION CYST</td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">10,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>GENERAL ANAESTHESIA</td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>HEAD SCAN</td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">20,000.00 </td>
+<td style="text-align: right">20,000.00 </td>
+<td style="text-align: right">30,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>HYSTERECTOMY</td>
+<td style="text-align: right">80,000.00 </td>
+<td style="text-align: right">80,000.00 </td>
+<td style="text-align: right">80,000.00 </td>
+<td style="text-align: right">80,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>INGROWN TOE NAIL REMOVAL</td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>LIPOME EXICISION SURGEON</td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">20,000.00 </td>
+<td style="text-align: right">20,000.00 </td>
+<td style="text-align: right">30,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>MCH WEIGHT FEE</td>
+<td style="text-align: right">20.00 </td>
+<td style="text-align: right">20.00 </td>
+<td style="text-align: right">20.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>MEDICAL CERTIFICATION FEE</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>METHOTROXETE ADMINISTRATION 2</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>MYOMECTOMY</td>
+<td style="text-align: right">80,000.00 </td>
+<td style="text-align: right">80,000.00 </td>
+<td style="text-align: right">80,000.00 </td>
+<td style="text-align: right">80,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>OGDD</td>
+<td style="text-align: right">20,000.00 </td>
+<td style="text-align: right">30,000.00 </td>
+<td style="text-align: right">30,000.00 </td>
+<td style="text-align: right">50,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>OPD CONSULTATION FEE</td>
+<td style="text-align: right">100.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">600.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>ORCHIDOPEXY SURGEONS FEE</td>
+<td style="text-align: right">25,000.00 </td>
+<td style="text-align: right">25,000.00 </td>
+<td style="text-align: right">25,000.00 </td>
+<td style="text-align: right">25,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>ORIF TIBIA/FIBULA</td>
+<td style="text-align: right">60,000.00 </td>
+<td style="text-align: right">60,000.00 </td>
+<td style="text-align: right">60,000.00 </td>
+<td style="text-align: right">60,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>ORTHOPEDIC SURGEON FEE</td>
+<td style="text-align: right">40,000.00 </td>
+<td style="text-align: right">50,000.00 </td>
+<td style="text-align: right">50,000.00 </td>
+<td style="text-align: right">50,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>PRIVATE WARD</td>
+<td style="text-align: right">2,407.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">5,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>PRIVATE WARD WITH NHIF</td>
+<td style="text-align: right">1,800.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">5,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>REDUCTION</td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">20,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>REMOVAL OF HARDWARE</td>
+<td style="text-align: right">80,000.00 </td>
+<td style="text-align: right">80,000.00 </td>
+<td style="text-align: right">80,000.00 </td>
+<td style="text-align: right">80,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>SCAN</td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">20,000.00 </td>
+<td style="text-align: right">20,000.00 </td>
+<td style="text-align: right">20,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>SPINAL ANAESTHESIA</td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">10,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>SURGEONS FEE FOR SKIN GRAFTING</td>
+<td style="text-align: right">30,000.00 </td>
+<td style="text-align: right">50,000.00 </td>
+<td style="text-align: right">50,000.00 </td>
+<td style="text-align: right">50,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>SURGICAL DEBRIDEMENT</td>
+<td style="text-align: right">6,000.00 </td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">10,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>TENDON REPAIR-MULTIPLE/LARGE</td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">7,500.00 </td>
+<td style="text-align: right">7,500.00 </td>
+<td style="text-align: right">7,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>THEATRE FEE FOR SKIN GRAFTING</td>
+<td style="text-align: right">40,000.00 </td>
+<td style="text-align: right">60,000.00 </td>
+<td style="text-align: right">60,000.00 </td>
+<td style="text-align: right">60,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>THYROIDECTOMY</td>
+<td style="text-align: right">120,000.00 </td>
+<td style="text-align: right">120,000.00 </td>
+<td style="text-align: right">120,000.00 </td>
+<td style="text-align: right">120,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>THYROIDECTOMY SURGEONS FEE</td>
+<td style="text-align: right">60,000.00 </td>
+<td style="text-align: right">60,000.00 </td>
+<td style="text-align: right">60,000.00 </td>
+<td style="text-align: right">60,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>TONSILLECTOMY</td>
+<td style="text-align: right">50,000.00 </td>
+<td style="text-align: right">50,000.00 </td>
+<td style="text-align: right">50,000.00 </td>
+<td style="text-align: right">50,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>TONSILLECTOMYY SURGEONS FEE</td>
+<td style="text-align: right">25,000.00 </td>
+<td style="text-align: right">25,000.00 </td>
+<td style="text-align: right">25,000.00 </td>
+<td style="text-align: right">25,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>TUBOPLASTY SURGEONS FEE</td>
+<td style="text-align: right">39,500.00 </td>
+<td style="text-align: right">39,500.00 </td>
+<td style="text-align: right">39,500.00 </td>
+<td style="text-align: right">39,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>TURBINOPLASTY</td>
+<td style="text-align: right">45,000.00 </td>
+<td style="text-align: right">45,000.00 </td>
+<td style="text-align: right">45,000.00 </td>
+<td style="text-align: right">45,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>PROCEDURES</td>
+<td>U-SLAB POP</td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>RADIOGRAPHY</td>
+<td>CT SCAN</td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>SERVICE</td>
+<td>SELF PAY</td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">50.00 </td>
+<td style="text-align: right">50.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>THEATRE PROCEDURES</td>
+<td>ANAEETHETIC SPINAL</td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>THEATRE PROCEDURES</td>
+<td>ANAESTHETIST</td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">5,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>THEATRE PROCEDURES</td>
+<td>ANAESTHETIST - GENERAL ANAESTHESIA</td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">20,000.00 </td>
+<td style="text-align: right">20,000.00 </td>
+<td style="text-align: right">20,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>THEATRE PROCEDURES</td>
+<td>ANAESTHETIST - SEDATION</td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">7,500.00 </td>
+<td style="text-align: right">7,500.00 </td>
+<td style="text-align: right">7,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>THEATRE PROCEDURES</td>
+<td>ANAESTHETIST - SPINAL ANAESTHESIA</td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>THEATRE PROCEDURES</td>
+<td>ANAETHETIST FEE</td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>THEATRE PROCEDURES</td>
+<td>ANASTHETIST FEE FOR SKIN GRAFTING</td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">20,000.00 </td>
+<td style="text-align: right">20,000.00 </td>
+<td style="text-align: right">20,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>THEATRE PROCEDURES</td>
+<td>ANESTHETIST FEE FOR CERVICAL BIOPSY</td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">3,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>THEATRE PROCEDURES</td>
+<td>APPENDECTOMY</td>
+<td style="text-align: right">160,000.00 </td>
+<td style="text-align: right">160,000.00 </td>
+<td style="text-align: right">160,000.00 </td>
+<td style="text-align: right">160,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>THEATRE PROCEDURES</td>
+<td>APPENDICECTOMY</td>
+<td style="text-align: right">80,000.00 </td>
+<td style="text-align: right">60,000.00 </td>
+<td style="text-align: right">60,000.00 </td>
+<td style="text-align: right">80,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>THEATRE PROCEDURES</td>
+<td>BREAST LUMPECTOMY UNDER GA</td>
+<td style="text-align: right">40,000.00 </td>
+<td style="text-align: right">20,000.00 </td>
+<td style="text-align: right">20,000.00 </td>
+<td style="text-align: right">40,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>THEATRE PROCEDURES</td>
+<td>CEASERIAN SECTION</td>
+<td style="text-align: right">60,000.00 </td>
+<td style="text-align: right">30,000.00 </td>
+<td style="text-align: right">30,000.00 </td>
+<td style="text-align: right">30,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>THEATRE PROCEDURES</td>
+<td>CERVICAL BIOPSY / COLPOLSCOPY</td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>THEATRE PROCEDURES</td>
+<td>DIATHERMY PENCIL</td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,800.00 </td>
+<td style="text-align: right">1,800.00 </td>
+<td style="text-align: right">1,800.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>THEATRE PROCEDURES</td>
+<td>DILATATION AND CURATAGE</td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>THEATRE PROCEDURES</td>
+<td>EXLORATORY LAPAROTOMY</td>
+<td style="text-align: right">80,000.00 </td>
+<td style="text-align: right">60,000.00 </td>
+<td style="text-align: right">60,000.00 </td>
+<td style="text-align: right">80,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>THEATRE PROCEDURES</td>
+<td>GENERAL EXAMINITION</td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">20,000.00 </td>
+<td style="text-align: right">20,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>THEATRE PROCEDURES</td>
+<td>HOSPITAL THEATRE FEE (MAJOR PROCEDURE)</td>
+<td style="text-align: right">20,000.00 </td>
+<td style="text-align: right">25,000.00 </td>
+<td style="text-align: right">25,000.00 </td>
+<td style="text-align: right">25,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>THEATRE PROCEDURES</td>
+<td>LAPARATOMY</td>
+<td style="text-align: right">80,000.00 </td>
+<td style="text-align: right">120,000.00 </td>
+<td style="text-align: right">120,000.00 </td>
+<td style="text-align: right">120,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>THEATRE PROCEDURES</td>
+<td>LIPOMA EXCISION</td>
+<td style="text-align: right">60,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">100,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>THEATRE PROCEDURES</td>
+<td>MONITOR TIME PER HOUR</td>
+<td style="text-align: right">300.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>THEATRE PROCEDURES</td>
+<td>OPEN REDUCTION INTERNAL FIXATION (ORIF))</td>
+<td style="text-align: right">160,000.00 </td>
+<td style="text-align: right">200,000.00 </td>
+<td style="text-align: right">200,000.00 </td>
+<td style="text-align: right">200,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>THEATRE PROCEDURES</td>
+<td>ORCHIDECTOMY PROCEDURE FEE</td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>THEATRE PROCEDURES</td>
+<td>ORCHIDOPEXY</td>
+<td style="text-align: right">40,000.00 </td>
+<td style="text-align: right">40,000.00 </td>
+<td style="text-align: right">40,000.00 </td>
+<td style="text-align: right">40,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>THEATRE PROCEDURES</td>
+<td>PROSTATE BIOPSY( SURGEON FEE)</td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>THEATRE PROCEDURES</td>
+<td>REDUCTION UNDER SEDATION</td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">4,000.00 </td>
+<td style="text-align: right">4,000.00 </td>
+<td style="text-align: right">4,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>THEATRE PROCEDURES</td>
+<td>SEDATION (MILD)</td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">7,500.00 </td>
+<td style="text-align: right">7,500.00 </td>
+<td style="text-align: right">7,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>THEATRE PROCEDURES</td>
+<td>SEDATION FEE</td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">20,000.00 </td>
+<td style="text-align: right">20,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>THEATRE PROCEDURES</td>
+<td>SPINAL EXAMINATION</td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>THEATRE PROCEDURES</td>
+<td>THEATRE ASSISTANT FEE</td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>THEATRE PROCEDURES</td>
+<td>THEATRE CASE - DAY CASE - SEDATION</td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>THEATRE PROCEDURES</td>
+<td>THEATRE FEE FOR REDUCTION</td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">6,500.00 </td>
+<td style="text-align: right">6,500.00 </td>
+<td style="text-align: right">6,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>THEATRE PROCEDURES</td>
+<td>THEATRE GASES PER HOUR</td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">2,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>THEATRE PROCEDURES</td>
+<td>THEATRE SCRUBBING/ FUMIGATION</td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">5,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>TRANSPORT</td>
+<td>AMBULANCE  FROM NANYUKI TO THIKA</td>
+<td style="text-align: right">22,000.00 </td>
+<td style="text-align: right">30,000.00 </td>
+<td style="text-align: right">30,000.00 </td>
+<td style="text-align: right">30,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>TRANSPORT</td>
+<td>AMBULANCE EVENT COVERAGE( FULL DAY) 8 TO 5PM</td>
+<td style="text-align: right">20,000.00 </td>
+<td style="text-align: right">30,000.00 </td>
+<td style="text-align: right">30,000.00 </td>
+<td style="text-align: right">30,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>TRANSPORT</td>
+<td>AMBULANCE FROM HURUMA  AND THE SORROUNDING</td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>TRANSPORT</td>
+<td>AMBULANCE FROM HURUMA  NANYUKI TO  DISTRICT</td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>TRANSPORT</td>
+<td>AMBULANCE FROM NANYUKI TO  KIJABE</td>
+<td style="text-align: right">38,000.00 </td>
+<td style="text-align: right">45,000.00 </td>
+<td style="text-align: right">45,000.00 </td>
+<td style="text-align: right">45,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>TRANSPORT</td>
+<td>AMBULANCE FROM NANYUKI TO  NORTH KINANGOP</td>
+<td style="text-align: right">35,000.00 </td>
+<td style="text-align: right">40,000.00 </td>
+<td style="text-align: right">40,000.00 </td>
+<td style="text-align: right">40,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>TRANSPORT</td>
+<td>AMBULANCE FROM NANYUKI TO CHOGORIA</td>
+<td style="text-align: right">25,000.00 </td>
+<td style="text-align: right">30,000.00 </td>
+<td style="text-align: right">30,000.00 </td>
+<td style="text-align: right">30,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>TRANSPORT</td>
+<td>AMBULANCE FROM NANYUKI TO CHUKA</td>
+<td style="text-align: right">25,000.00 </td>
+<td style="text-align: right">30,000.00 </td>
+<td style="text-align: right">30,000.00 </td>
+<td style="text-align: right">30,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>TRANSPORT</td>
+<td>AMBULANCE FROM NANYUKI TO EMBU</td>
+<td style="text-align: right">26,000.00 </td>
+<td style="text-align: right">29,000.00 </td>
+<td style="text-align: right">29,000.00 </td>
+<td style="text-align: right">29,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>TRANSPORT</td>
+<td>AMBULANCE FROM NANYUKI TO KARATINA</td>
+<td style="text-align: right">18,000.00 </td>
+<td style="text-align: right">20,000.00 </td>
+<td style="text-align: right">20,000.00 </td>
+<td style="text-align: right">20,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>TRANSPORT</td>
+<td>AMBULANCE FROM NANYUKI TO KIKUYU</td>
+<td style="text-align: right">35,000.00 </td>
+<td style="text-align: right">45,000.00 </td>
+<td style="text-align: right">45,000.00 </td>
+<td style="text-align: right">45,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>TRANSPORT</td>
+<td>AMBULANCE FROM NANYUKI TO MERU TOWN</td>
+<td style="text-align: right">18,000.00 </td>
+<td style="text-align: right">22,000.00 </td>
+<td style="text-align: right">22,000.00 </td>
+<td style="text-align: right">22,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>TRANSPORT</td>
+<td>AMBULANCE FROM NANYUKI TO NAIROBI</td>
+<td style="text-align: right">28,000.00 </td>
+<td style="text-align: right">45,000.00 </td>
+<td style="text-align: right">45,000.00 </td>
+<td style="text-align: right">45,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>TRANSPORT</td>
+<td>AMBULANCE FROM NANYUKI TO TIMAU</td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">20,000.00 </td>
+<td style="text-align: right">20,000.00 </td>
+<td style="text-align: right">20,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>TRANSPORT</td>
+<td>AMBULANCE FROM SIPILI TO HURUMA</td>
+<td style="text-align: right">30,000.00 </td>
+<td style="text-align: right">30,000.00 </td>
+<td style="text-align: right">30,000.00 </td>
+<td style="text-align: right">30,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>TRANSPORT</td>
+<td>AMBULANCE NANYUKI COTTAGE/NTRH</td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>TRANSPORT</td>
+<td>AMBULANCE NANYUKI TO KIRUA</td>
+<td style="text-align: right">21,000.00 </td>
+<td style="text-align: right">21,000.00 </td>
+<td style="text-align: right">21,000.00 </td>
+<td style="text-align: right">21,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>TRANSPORT</td>
+<td>AMBULANCE NANYUKI TO NAROMORU</td>
+<td style="text-align: right">10,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>TRANSPORT</td>
+<td>AMBULANCE NANYUKI TO OTHAYA</td>
+<td style="text-align: right">16,000.00 </td>
+<td style="text-align: right">16,000.00 </td>
+<td style="text-align: right">16,000.00 </td>
+<td style="text-align: right">16,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>TRANSPORT</td>
+<td>AMBULANCE SERVICES FROM NANYUKI TO GATHERI</td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">4,000.00 </td>
+<td style="text-align: right">4,000.00 </td>
+<td style="text-align: right">4,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>TRANSPORT</td>
+<td>AMBULANCE SERVICES FROM NANYUKI TO NYERI</td>
+<td style="text-align: right">18,000.00 </td>
+<td style="text-align: right">25,000.00 </td>
+<td style="text-align: right">25,000.00 </td>
+<td style="text-align: right">25,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>TRANSPORT</td>
+<td>AMBULANCE SERVICES WITHIN NANYUKI TOWN</td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>TRANSPORT</td>
+<td>AMBULANCE TRANSPORT FROM NANYUKI TO KIGANJO / CHAKA</td>
+<td style="text-align: right">12,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+<td style="text-align: right">15,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>TRANSPORT</td>
+<td>AMBULANCE TRANSPORT FROM NANYUKI TO KIRIAINI</td>
+<td style="text-align: right">20,000.00 </td>
+<td style="text-align: right">25,000.00 </td>
+<td style="text-align: right">25,000.00 </td>
+<td style="text-align: right">25,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>TRANSPORT</td>
+<td>AMBULANCE TRANSPORT FROM NANYUKI TO KIRIAINI NAIROBI WOMEN</td>
+<td style="text-align: right">30,000.00 </td>
+<td style="text-align: right">36,000.00 </td>
+<td style="text-align: right">36,000.00 </td>
+<td style="text-align: right">36,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>TRANSPORT</td>
+<td>AMBULANCE TRANSPORT FROM NANYUKI TO MARY IMMACULATE</td>
+<td style="text-align: right">30,000.00 </td>
+<td style="text-align: right">35,000.00 </td>
+<td style="text-align: right">35,000.00 </td>
+<td style="text-align: right">35,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>TRANSPORT</td>
+<td>AMBULANCE WITHIN NANYUKI TO AIRSTRIP</td>
+<td style="text-align: right">6,000.00 </td>
+<td style="text-align: right">7,000.00 </td>
+<td style="text-align: right">7,000.00 </td>
+<td style="text-align: right">7,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>TRANSPORT</td>
+<td>COTTAGE TRANSPORT</td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>TRANSPORT</td>
+<td>EMERGENCY RESPONSE</td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>TRANSPORT</td>
+<td>NYERI BY PRIVATE TRANSPORTATION</td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>TRANSPORT</td>
+<td>TRANSPORT TO NTRH AND COTTAGE</td>
+<td style="text-align: right">400.00 </td>
+<td style="text-align: right">400.00 </td>
+<td style="text-align: right">400.00 </td>
+<td style="text-align: right">400.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>TRANSPORT</td>
+<td>TRANSPORT TO NYERI</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>TRANSPORT</td>
+<td>TRANSPORTATION TO NYRI VIA PRIVATE</td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>ULTRASOUND</td>
+<td>ABDOMINAL-PELVIC SCAN</td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>ULTRASOUND</td>
+<td>ABDOMINAL SCAN</td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>ULTRASOUND</td>
+<td>BREAST SCAN</td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">3,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>ULTRASOUND</td>
+<td>DOPPLER SCAN (BILATERAL)</td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">6,000.00 </td>
+<td style="text-align: right">6,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>ULTRASOUND</td>
+<td>DOPPLER SCAN (SINGLE)</td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>ULTRASOUND</td>
+<td>INGUINAL</td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">3,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>ULTRASOUND</td>
+<td>MULTI REGIONAL SCAN</td>
+<td style="text-align: right">4,000.00 </td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">5,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>ULTRASOUND</td>
+<td>MUSCULOSKELETAL SCAN</td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>ULTRASOUND</td>
+<td>OBSTETRIC SCAN</td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>ULTRASOUND</td>
+<td>PELVIC SCAN (TAS/TVS)</td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>ULTRASOUND</td>
+<td>PROSTATE/KUB SCAN</td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">3,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>ULTRASOUND</td>
+<td>RENAL DOPPLER</td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">3,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>ULTRASOUND</td>
+<td>THYROID SCAN</td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">3,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>X-RAY</td>
+<td>ABDOMEN (X-RAY)</td>
+<td style="text-align: right">800.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>X-RAY</td>
+<td>ANKLE JOINT - LOWER LIMB</td>
+<td style="text-align: right">800.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>X-RAY</td>
+<td>CERVICAL SPINE(X-RAY)</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>X-RAY</td>
+<td>CHEST CLAVICLE, STERNUM (X-RAY)</td>
+<td style="text-align: right">800.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>X-RAY</td>
+<td>ELBOW JOINT (X-RAY)</td>
+<td style="text-align: right">800.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>X-RAY</td>
+<td>FEMUR - LOWER LIMB</td>
+<td style="text-align: right">800.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>X-RAY</td>
+<td>FILM X - RAY</td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+<td style="text-align: right">500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>X-RAY</td>
+<td>FINGER - UPPER LIMB (X-RAY)</td>
+<td style="text-align: right">800.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>X-RAY</td>
+<td>FOOT (X-RAY)</td>
+<td style="text-align: right">800.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>X-RAY</td>
+<td>HAND (X-RAY)</td>
+<td style="text-align: right">800.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>X-RAY</td>
+<td>HEEL / CALCANEAL</td>
+<td style="text-align: right">800.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>X-RAY</td>
+<td>HIP JOINT (X-RAY)</td>
+<td style="text-align: right">800.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>X-RAY</td>
+<td>HUMERUS (X-RAY)</td>
+<td style="text-align: right">800.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>X-RAY</td>
+<td>KNEE JOINT - LOWER LIMB</td>
+<td style="text-align: right">800.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>X-RAY</td>
+<td>LUMBAR SPINE (X-RAY)</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>X-RAY</td>
+<td>OBSTETRIC SCAN(MATERNITY AND MCH)</td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>X-RAY</td>
+<td>PELVIC,HIP (X-RAY)</td>
+<td style="text-align: right">800.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>X-RAY</td>
+<td>PNS,TMJ (X-RAY)</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>X-RAY</td>
+<td>RADIALULNA (X-RAY)</td>
+<td style="text-align: right">800.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>X-RAY</td>
+<td>SCROTAL SCAN</td>
+<td style="text-align: right">2,500.00 </td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">3,500.00 </td>
+<td style="text-align: right">3,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>X-RAY</td>
+<td>SHOULDER GIRDLE (X-RAY)</td>
+<td style="text-align: right">800.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>X-RAY</td>
+<td>SKULL</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>X-RAY</td>
+<td>THORACIC SPINE</td>
+<td style="text-align: right">1,000.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">0.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>X-RAY</td>
+<td>THORACOLUMBAR SPINE</td>
+<td style="text-align: right">1,500.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+<td style="text-align: right">2,000.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>X-RAY</td>
+<td>TIBIA FIBULA - LOWER LIMB</td>
+<td style="text-align: right">800.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>X-RAY</td>
+<td>TOE (X-RAY)</td>
+<td style="text-align: right">800.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+</tr>
+
+
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+<td>X-RAY</td>
+<td>WRIST JOINT - UPPER LIMB</td>
+<td style="text-align: right">800.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+<td style="text-align: right">1,200.00 </td>
+</tr>
+
+
+
+
+</tbody></table>

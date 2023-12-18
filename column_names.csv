@@ -1,0 +1,130 @@
+Privilege Name
+view waiting patients
+view patients seen on a selected period
+register patient
+register inpatient
+view patients
+view admitted patients
+view appointments
+view patient charges
+reconcile personal charges payments
+reconcile credit payments
+daily cash reports
+daily credit reports
+view invoices
+purchase vaccine
+vaccine purchases report
+vaccine sales report
+vaccine stock report
+record expense
+expenses report
+items that need reorder
+register user
+view users
+register items
+view items
+upload hospital logo
+logo details
+view waiting patients for lab
+view patient visits on lab
+view external patient visits on lab
+view waiting patients for pharmacy
+purchase medicine
+medicine purchases report
+medicine sales report
+medicine stock report
+view waiting patients for radiology
+view patient visits on radiology
+view external patient visits on radiology
+edit patient charges
+collections per service corporate report
+collections per service non corporate report
+cancel transaction
+edit personal charge payment
+view edited payments report
+handle payroll
+record vital signs
+chart of accounts
+general journal
+banking
+petty cash
+taxes
+general accounting items
+money in items
+money out items
+view accounting reports
+medicine stock adjustment
+create consultation retainer invoice
+medicine batch expiry report
+drugs dispensed reversal
+remove undispensed drugs
+edit invoice payment
+discounting
+maternity
+mortuary
+stores
+issue items to cost centres
+loan items to cost centres
+internal transfers
+stock adjustment
+inventory reports
+view inpatient admission profile
+view interim inpatient bill
+discharge patient
+cancel admission
+upload appointment files
+view patients diagnoses
+receipt partial payments
+insurance drugs sales allowance mapping
+bill patient meals
+remove lab and radiology requests
+edit personal charge particulars
+edit invoice particulars
+add and modify bills of closed patient visits
+view physiotherapy stock
+assets
+vehicles and mileage
+create and view purchase orders
+remove undispensed pharmacy request
+add invoice payment
+leave management
+employee performance management
+edit accounts from general journal
+edit medicine purchase
+edit petty cash transaction
+view general ledger report
+view trial balance report
+view profit and loss report
+view departmental income report
+view departmental expenses report
+view balance sheet report
+view payables aging report
+view supplier balances report
+view supplier statement report
+donations
+handle virtual patients
+view ministry of health reports
+view laboratory price list
+view radiology price list
+view medicine price list
+delete appointment
+view nhif rebate report
+view insurance out patient capitation report
+set appointment individual limits
+issue patient refunds
+finalize invoices
+reverse finalized invoices
+change inpatient admission date
+reverse discharge
+convert patient bills from cash to corporate and vice versa
+bill inpatient packages
+change payment account of admitted patients
+edit approved leave request
+define insurances opening balance
+define suppliers opening balances
+view cash flow statement report
+bank loans
+set copay details
+view management reports
+handle main store transactions
+patient interbranch transfer

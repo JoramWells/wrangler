@@ -1,0 +1,388 @@
+fullName:{
+    type:DataTypes.STRING
+},
+viewWaitingPatient:{
+    type:DataTypes.STRING
+},
+viewPatientsSeenOnSelectedPeriod:{
+    type:DataTypes.STRING
+},
+registerPatient:{
+    type:DataTypes.STRING
+},
+registerInPatient:{
+    type:DataTypes.STRING
+},
+viewPatients:{
+    type:DataTypes.STRING
+},
+viewAdmittedPatients:{
+    type:DataTypes.STRING
+},
+viewAppointments:{
+    type:DataTypes.STRING
+},
+viewPatientCharges:{
+    type:DataTypes.STRING
+},
+reconcilePersonalChargesPayments:{
+    type:DataTypes.STRING
+},
+reconcileCreditPayments:{
+    type:DataTypes.STRING
+},
+dailyCashReports:{
+    type:DataTypes.STRING
+},
+dailyCreditReports:{
+    type:DataTypes.STRING
+},
+viewInvoices:{
+    type:DataTypes.STRING
+},
+purchaseVaccine:{
+    type:DataTypes.STRING
+},
+vaccinePurchasesReport:{
+    type:DataTypes.STRING
+},
+vaccineSalesReport:{
+    type:DataTypes.STRING
+},
+vaccineStockReport:{
+    type:DataTypes.STRING
+},
+recordExpense:{
+    type:DataTypes.STRING
+},
+expensesReport:{
+    type:DataTypes.STRING
+},
+itemsThatNeedReorder:{
+    type:DataTypes.STRING
+},
+registerUser:{
+    type:DataTypes.STRING
+},
+viewUsers:{
+    type:DataTypes.STRING
+},
+registerItems:{
+    type:DataTypes.STRING
+},
+viewItems:{
+    type:DataTypes.STRING
+},
+uploadHospitalLogo:{
+    type:DataTypes.STRING
+},
+logoDetails:{
+    type:DataTypes.STRING
+},
+viewWaitingPatientsForLab:{
+    type:DataTypes.STRING
+},
+viewPatientVisitsOnLab:{
+    type:DataTypes.STRING
+},
+viewExternalPatientVisitsOnLab:{
+    type:DataTypes.STRING
+},
+viewWaitingPatientsForPharmacy:{
+    type:DataTypes.STRING
+},
+purchaseMedicine:{
+    type:DataTypes.STRING
+},
+medicinePurchasesReport:{
+    type:DataTypes.STRING
+},
+medicineSalesReport:{
+    type:DataTypes.STRING
+},
+medicineStockReport:{
+    type:DataTypes.STRING
+},
+viewWaitingPatientsForRadiology:{
+    type:DataTypes.STRING
+},
+viewPatientVisitsOnRadiology:{
+    type:DataTypes.STRING
+},
+viewExternalPatientVisitsOnRadiology:{
+    type:DataTypes.STRING
+},
+editPatientCharges:{
+    type:DataTypes.STRING
+},
+collectionsPerServiceCorporateReport:{
+    type:DataTypes.STRING
+},
+collectionsPerServiceNonCorporateReport:{
+    type:DataTypes.STRING
+},
+cancelTransaction:{
+    type:DataTypes.STRING
+},
+editPersonalChargePayment:{
+    type:DataTypes.STRING
+},
+viewEditedPaymentsReport:{
+    type:DataTypes.STRING
+},
+handlePayroll :{
+    type:DataTypes.STRING
+},
+recordVitalSigns:{
+    type:DataTypes.STRING
+},
+chartOfAccounts:{
+    type:DataTypes.STRING
+},
+generalJournal:{
+    type:DataTypes.STRING
+},
+banking:{
+    type:DataTypes.STRING
+},
+pettyCash:{
+    type:DataTypes.STRING
+},
+taxes:{
+    type:DataTypes.STRING
+},
+generalAccountingItems:{
+    type:DataTypes.STRING
+},
+moneyInItems:{
+    type:DataTypes.STRING
+},
+moneyOutItems:{
+    type:DataTypes.STRING
+} ,
+viewAccountingReport:{
+    type:DataTypes.STRING
+},
+medicineStockAdjustment:{
+    type:DataTypes.STRING
+},
+createConsultationRetainerInvoice:{
+    type:DataTypes.STRING
+},
+medicineBatchExpiryReport:{
+    type:DataTypes.STRING
+},
+drugsDispensedReversal:{
+    type:DataTypes.STRING
+},
+removeUndispensedDrugs:{
+    type:DataTypes.STRING
+},
+editInvoicePayment:{
+    type:DataTypes.STRING
+},
+accounting:{
+    type:DataTypes.STRING
+},
+maternity:{
+    type:DataTypes.STRING
+},
+mortuary:{
+    type:DataTypes.STRING
+},
+stores:{
+    type:DataTypes.STRING
+},,
+issueItemsToCostCentres:{
+    type:DataTypes.STRING
+},
+loanItemsToCostCentres:{
+    type:DataTypes.STRING
+},
+internalTransfers:{
+    type:DataTypes.STRING
+},
+stockAdjustment:{
+    type:DataTypes.STRING
+},
+inventoryReports:{
+    type:DataTypes.STRING
+},
+viewInpatientAdmissionProfile:{
+    type:DataTypes.STRING
+},
+viewInterimInpatientBill:{
+    type:DataTypes.STRING
+},
+dischargePatient:{
+    type:DataTypes.STRING
+},
+cancelAdmission:{
+    type:DataTypes.STRING
+},
+uploadAppointmentFiles:{
+    type:DataTypes.STRING
+},
+viewPatientsDiagnoses:{
+    type:DataTypes.STRING
+},
+receiptPartialPayments:{
+    type:DataTypes.STRING
+},
+insuranceDrugsSalesAllowanceMapping:{
+    type:DataTypes.STRING
+},
+billPatientMeals:{
+    type:DataTypes.STRING
+},
+removeLabAndRadiologyRequests:{
+    type:DataTypes.STRING
+},
+editPersonalChargeParticulars:{
+    type:DataTypes.STRING
+},
+editInvoiceParticulars:{
+    type:DataTypes.STRING
+},
+addAndModifyBillsOfClosedPatientVisits:{
+    type:DataTypes.STRING
+},
+viewPhysiotherapyStock:{
+    type:DataTypes.STRING
+},
+assets:{
+    type:DataTypes.STRING
+},
+vehiclesAndMileage:{
+    type:DataTypes.STRING
+},
+createAndViewPurchaseOrders:{
+    type:DataTypes.STRING
+},
+removeUndispensedPharmacyRequest:{
+    type:DataTypes.STRING
+},
+addInvoicePayment:{
+    type:DataTypes.STRING
+},
+leaveManagement:{
+    type:DataTypes.STRING
+},
+employeePerformanceManagement:{
+    type:DataTypes.STRING
+},
+editAccountsFromGeneralJournal:{
+    type:DataTypes.STRING
+},
+editMedicinePurchase:{
+    type:DataTypes.STRING
+},
+editPettyCashTransaction:{
+    type:DataTypes.STRING
+},
+viewGeneralLedgerReport:{
+    type:DataTypes.STRING
+},
+viewTrialBalanceReport:{
+    type:DataTypes.STRING
+},
+viewProfitAndLossReport:{
+    type:DataTypes.STRING
+},
+viewDepartmentalIncomeReport:{
+    type:DataTypes.STRING
+},
+viewDepartmentalExpensesReport:{
+    type:DataTypes.STRING
+},
+viewBalanceSheetReport:{
+    type:DataTypes.STRING
+},
+viewPayablesAgingReport:{
+    type:DataTypes.STRING
+},
+viewSupplierBalancesReport:{
+    type:DataTypes.STRING
+},
+viewSupplierStatementReport:{
+    type:DataTypes.STRING
+},
+donations:{
+    type:DataTypes.STRING
+},
+handleVirtualPatients:{
+    type:DataTypes.STRING
+},
+viewMinistryOfHealthReports = Optional(str, default='')
+viewLaboratoryPriceList:{
+    type:DataTypes.STRING
+},
+viewRadiologyPriceList:{
+    type:DataTypes.STRING
+},
+viewMedicinePriceList:{
+    type:DataTypes.STRING
+},
+deleteAppointment:{
+    type:DataTypes.STRING
+},
+viewNhifRebateReport:{
+    type:DataTypes.STRING
+},
+viewInsuranceOutPatientCapitationReport:{
+    type:DataTypes.STRING
+},
+setAppointmentIndividualLimits:{
+    type:DataTypes.STRING
+},
+issuePatientRefunds:{
+    type:DataTypes.STRING
+},
+finalizeInvoices:{
+    type:DataTypes.STRING
+},
+reverseFinalizedInvoices:{
+    type:DataTypes.STRING
+},
+changInpatientAdmissionDate:{
+    type:DataTypes.STRING
+},
+reverseDischarge:{
+    type:DataTypes.STRING
+},
+convertPatientBillsFromCashToCorporateAndViceVersa:{
+    type:DataTypes.STRING
+},
+billInpatientPackages:{
+    type:DataTypes.STRING
+},
+changePaymentAccountOfAdmittedPatients:{
+    type:DataTypes.STRING
+},
+editApprovedLeaveRequest:{
+    type:DataTypes.STRING
+},
+defineInsurancesOpeningBalance:{
+    type:DataTypes.STRING
+},
+defineSuppliersOpeningBalances:{
+    type:DataTypes.STRING
+},
+viewCashFlowStatementReport:{
+    type:DataTypes.STRING
+},
+bankLoans:{
+    type:DataTypes.STRING
+},
+setCopayDetails:{
+    type:DataTypes.STRING
+},
+viewManagementReports:{
+    type:DataTypes.STRING
+},
+handleMainStoreTransactions:{
+    type:DataTypes.STRING
+},
+patientInterbranchTransfer:{
+    type:DataTypes.STRING
+},

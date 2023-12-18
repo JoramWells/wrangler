@@ -1,0 +1,709 @@
+
+
+<div style="background-color: transparent;font-weight: bold">
+    CURRENT ADMITTED PATIENTS
+    <br>
+    WARD : ALL WARDS
+    <br>
+    GENDER : BOTH MALE AND FEMALE
+    <br>
+    BRANCH : MAIN BRANCH ONLY
+</div>
+
+<table border="1" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr><th>In-Patient File No</th><th>Full Name</th><th>Age</th><th>Admission Date</th><th>Admission Time</th>
+<th>Payment Details</th><th>Ward</th><th>Bed Number</th>
+<th style="text-align: right">No of Days Admitted</th>
+
+</tr><tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">503/2022</td>
+    <td style="mso-number-format:\@">VERONICAH WATETU MUNGA</td>
+    <td style="mso-number-format:\@">91 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">AUGUST 8, 2023</td>
+    <td style="mso-number-format:\@">12:00:00PM</td>
+    <td style="mso-number-format:\@">CASH</td>
+    <td style="mso-number-format:\@">FEMALE WARD</td>
+    <td style="mso-number-format:\@">55</td>
+    <td style="text-align: right;mso-number-format:\@">126 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">054/2020</td>
+    <td style="mso-number-format:\@">AGNES WAMBUI WAITHAKA</td>
+    <td style="mso-number-format:\@">89 YRS 5 MONTHS</td>
+    <td style="mso-number-format:\@">AUGUST 8, 2023</td>
+    <td style="mso-number-format:\@">12:00:00PM</td>
+    <td style="mso-number-format:\@">CASH</td>
+    <td style="mso-number-format:\@">FEMALE WARD</td>
+    <td style="mso-number-format:\@">40</td>
+    <td style="text-align: right;mso-number-format:\@">126 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">040/2020</td>
+    <td style="mso-number-format:\@">MARY MICHERE WANANDU</td>
+    <td style="mso-number-format:\@">67 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">AUGUST 8, 2023</td>
+    <td style="mso-number-format:\@">12:00:00PM</td>
+    <td style="mso-number-format:\@">CASH</td>
+    <td style="mso-number-format:\@">FEMALE WARD</td>
+    <td style="mso-number-format:\@">44</td>
+    <td style="text-align: right;mso-number-format:\@">126 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">056/2020</td>
+    <td style="mso-number-format:\@">GLADYS KAJUJU .</td>
+    <td style="mso-number-format:\@">54 YRS 11 MONTHS</td>
+    <td style="mso-number-format:\@">AUGUST 8, 2023</td>
+    <td style="mso-number-format:\@">12:00:00PM</td>
+    <td style="mso-number-format:\@">CASH</td>
+    <td style="mso-number-format:\@">FEMALE WARD</td>
+    <td style="mso-number-format:\@">49</td>
+    <td style="text-align: right;mso-number-format:\@">126 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">028/2020</td>
+    <td style="mso-number-format:\@">JOSEPH KARIUKI GAKUU</td>
+    <td style="mso-number-format:\@">65 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">AUGUST 8, 2023</td>
+    <td style="mso-number-format:\@">12:00:00PM</td>
+    <td style="mso-number-format:\@">CASH</td>
+    <td style="mso-number-format:\@">MALE WARD</td>
+    <td style="mso-number-format:\@">34</td>
+    <td style="text-align: right;mso-number-format:\@">126 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">897/2021</td>
+    <td style="mso-number-format:\@">JAMES MUITA THEGETHA</td>
+    <td style="mso-number-format:\@">60 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">AUGUST 8, 2023</td>
+    <td style="mso-number-format:\@">12:00:00PM</td>
+    <td style="mso-number-format:\@">CASH</td>
+    <td style="mso-number-format:\@">MALE WARD</td>
+    <td style="mso-number-format:\@">33</td>
+    <td style="text-align: right;mso-number-format:\@">126 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">029/2020</td>
+    <td style="mso-number-format:\@">ANGELICA . NAITO</td>
+    <td style="mso-number-format:\@">66 YRS 11 MONTHS</td>
+    <td style="mso-number-format:\@">AUGUST 8, 2023</td>
+    <td style="mso-number-format:\@">12:00:00PM</td>
+    <td style="mso-number-format:\@">CASH</td>
+    <td style="mso-number-format:\@">FEMALE WARD</td>
+    <td style="mso-number-format:\@">56</td>
+    <td style="text-align: right;mso-number-format:\@">126 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">125/2020</td>
+    <td style="mso-number-format:\@">JAMES MAINA KARONJI</td>
+    <td style="mso-number-format:\@">67 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">AUGUST 8, 2023</td>
+    <td style="mso-number-format:\@">12:00:00PM</td>
+    <td style="mso-number-format:\@">CASH</td>
+    <td style="mso-number-format:\@">MALE WARD</td>
+    <td style="mso-number-format:\@">38</td>
+    <td style="text-align: right;mso-number-format:\@">126 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">417/2023</td>
+    <td style="mso-number-format:\@">STEPHEN MURIUKI WACHIRA</td>
+    <td style="mso-number-format:\@">52 YRS 9 MONTHS 10 DAY(S)</td>
+    <td style="mso-number-format:\@">AUGUST 8, 2023</td>
+    <td style="mso-number-format:\@">12:00:00PM</td>
+    <td style="mso-number-format:\@">CASH</td>
+    <td style="mso-number-format:\@">MALE WARD</td>
+    <td style="mso-number-format:\@">39</td>
+    <td style="text-align: right;mso-number-format:\@">126 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">489/2023</td>
+    <td style="mso-number-format:\@">JANE IGANDU MUGO</td>
+    <td style="mso-number-format:\@">73 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">AUGUST 8, 2023</td>
+    <td style="mso-number-format:\@">12:00:00PM</td>
+    <td style="mso-number-format:\@">CASH</td>
+    <td style="mso-number-format:\@">FEMALE WARD</td>
+    <td style="mso-number-format:\@">43</td>
+    <td style="text-align: right;mso-number-format:\@">126 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">037/2020</td>
+    <td style="mso-number-format:\@">JEDIDA WAMBUI MUNOHE</td>
+    <td style="mso-number-format:\@">77 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">AUGUST 8, 2023</td>
+    <td style="mso-number-format:\@">12:00:00PM</td>
+    <td style="mso-number-format:\@">CASH</td>
+    <td style="mso-number-format:\@">FEMALE WARD</td>
+    <td style="mso-number-format:\@">34</td>
+    <td style="text-align: right;mso-number-format:\@">126 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">795/2023</td>
+    <td style="mso-number-format:\@">LEMARTIN  SAWEM .</td>
+    <td style="mso-number-format:\@">34 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">SEPTEMBER 14, 2023</td>
+    <td style="mso-number-format:\@">07:00:00PM</td>
+    <td style="mso-number-format:\@">CASH</td>
+    <td style="mso-number-format:\@">MALE WARD</td>
+    <td style="mso-number-format:\@">45</td>
+    <td style="text-align: right;mso-number-format:\@">89 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">379/2022</td>
+    <td style="mso-number-format:\@">JAMES WARIO BANTE</td>
+    <td style="mso-number-format:\@">42 YRS  11 DAY(S)</td>
+    <td style="mso-number-format:\@">SEPTEMBER 21, 2023</td>
+    <td style="mso-number-format:\@">12:00:00PM</td>
+    <td style="mso-number-format:\@">CASH</td>
+    <td style="mso-number-format:\@">MALE WARD</td>
+    <td style="mso-number-format:\@">37</td>
+    <td style="text-align: right;mso-number-format:\@">82 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">876/2023</td>
+    <td style="mso-number-format:\@">FRANCES L CUTTER</td>
+    <td style="mso-number-format:\@">72 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">OCTOBER 4, 2023</td>
+    <td style="mso-number-format:\@">12:00:00PM</td>
+    <td style="mso-number-format:\@">CASH</td>
+    <td style="mso-number-format:\@">FEMALE WARD</td>
+    <td style="mso-number-format:\@">22</td>
+    <td style="text-align: right;mso-number-format:\@">69 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">935/2023</td>
+    <td style="mso-number-format:\@">CHRISTINE NYOKABI NDIRANGU</td>
+    <td style="mso-number-format:\@">21 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">OCTOBER 26, 2023</td>
+    <td style="mso-number-format:\@">04:33:00PM</td>
+    <td style="mso-number-format:\@">CASH</td>
+    <td style="mso-number-format:\@">FEMALE WARD</td>
+    <td style="mso-number-format:\@">11</td>
+    <td style="text-align: right;mso-number-format:\@">47 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">967/2023</td>
+    <td style="mso-number-format:\@">ZEBORAH NJERI NJENGA</td>
+    <td style="mso-number-format:\@">47 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">NOVEMBER 9, 2023</td>
+    <td style="mso-number-format:\@">11:22:00AM</td>
+    <td style="mso-number-format:\@">NHIF NATIONAL SCHEME INPATIENT</td>
+    <td style="mso-number-format:\@">FEMALE WARD</td>
+    <td style="mso-number-format:\@">27</td>
+    <td style="text-align: right;mso-number-format:\@">33 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">996/2023</td>
+    <td style="mso-number-format:\@">ISABELLA WAKIURU KIARA</td>
+    <td style="mso-number-format:\@">84 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">NOVEMBER 20, 2023</td>
+    <td style="mso-number-format:\@">09:00:00AM</td>
+    <td style="mso-number-format:\@">NHIF NATIONAL SCHEME INPATIENT</td>
+    <td style="mso-number-format:\@">FEMALE WARD</td>
+    <td style="mso-number-format:\@">47</td>
+    <td style="text-align: right;mso-number-format:\@">22 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">1014/2023</td>
+    <td style="mso-number-format:\@">EMMANUEL ODONGO OLANGA</td>
+    <td style="mso-number-format:\@">4 YRS 9 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">NOVEMBER 23, 2023</td>
+    <td style="mso-number-format:\@">12:00:00PM</td>
+    <td style="mso-number-format:\@">NHIF </td>
+    <td style="mso-number-format:\@">FEMALE WARD</td>
+    <td style="mso-number-format:\@">37</td>
+    <td style="text-align: right;mso-number-format:\@">19 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">064/2022</td>
+    <td style="mso-number-format:\@">WANGU MATU .</td>
+    <td style="mso-number-format:\@">96 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">NOVEMBER 27, 2023</td>
+    <td style="mso-number-format:\@">08:26:00PM</td>
+    <td style="mso-number-format:\@">CASH</td>
+    <td style="mso-number-format:\@">FEMALE WARD</td>
+    <td style="mso-number-format:\@">38</td>
+    <td style="text-align: right;mso-number-format:\@">15 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">1030/2023</td>
+    <td style="mso-number-format:\@">SUSAN MUKAMI KIMANI</td>
+    <td style="mso-number-format:\@">78 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">NOVEMBER 28, 2023</td>
+    <td style="mso-number-format:\@">11:39:00AM</td>
+    <td style="mso-number-format:\@">NHIF NATIONAL SCHEME INPATIENT</td>
+    <td style="mso-number-format:\@">FEMALE WARD</td>
+    <td style="mso-number-format:\@">52</td>
+    <td style="text-align: right;mso-number-format:\@">14 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">959/2023</td>
+    <td style="mso-number-format:\@">MOSES PETER BROWN</td>
+    <td style="mso-number-format:\@">38 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">NOVEMBER 28, 2023</td>
+    <td style="mso-number-format:\@">05:00:00PM</td>
+    <td style="mso-number-format:\@">CASH</td>
+    <td style="mso-number-format:\@">GENERAL WARD</td>
+    <td style="mso-number-format:\@">40</td>
+    <td style="text-align: right;mso-number-format:\@">14 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">281/2023</td>
+    <td style="mso-number-format:\@">NGARI NJOGU .</td>
+    <td style="mso-number-format:\@">82 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">NOVEMBER 29, 2023</td>
+    <td style="mso-number-format:\@">08:00:00AM</td>
+    <td style="mso-number-format:\@">NHIF NATIONAL SCHEME INPATIENT</td>
+    <td style="mso-number-format:\@">MALE WARD</td>
+    <td style="mso-number-format:\@">35</td>
+    <td style="text-align: right;mso-number-format:\@">13 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">1040/2023</td>
+    <td style="mso-number-format:\@">JASON M;ATHERU MLITHARA</td>
+    <td style="mso-number-format:\@">76 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">NOVEMBER 29, 2023</td>
+    <td style="mso-number-format:\@">07:52:00PM</td>
+    <td style="mso-number-format:\@">NHIF NATIONAL SCHEME INPATIENT</td>
+    <td style="mso-number-format:\@">MALE WARD</td>
+    <td style="mso-number-format:\@">32</td>
+    <td style="text-align: right;mso-number-format:\@">13 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">1041/2023</td>
+    <td style="mso-number-format:\@">MPAANI LEMULI .</td>
+    <td style="mso-number-format:\@">51 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">NOVEMBER 30, 2023</td>
+    <td style="mso-number-format:\@">12:00:00PM</td>
+    <td style="mso-number-format:\@">CASH</td>
+    <td style="mso-number-format:\@">FEMALE WARD</td>
+    <td style="mso-number-format:\@">21</td>
+    <td style="text-align: right;mso-number-format:\@">12 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">972/2023</td>
+    <td style="mso-number-format:\@">NORAH NYAKERARIO ONWONGA</td>
+    <td style="mso-number-format:\@">93 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">NOVEMBER 30, 2023</td>
+    <td style="mso-number-format:\@">06:00:00PM</td>
+    <td style="mso-number-format:\@">NHIF NATIONAL SCHEME INPATIENT</td>
+    <td style="mso-number-format:\@">FEMALE WARD</td>
+    <td style="mso-number-format:\@">41</td>
+    <td style="text-align: right;mso-number-format:\@">12 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">022/2020</td>
+    <td style="mso-number-format:\@">KIGATHI MURAKARU MUTHONI</td>
+    <td style="mso-number-format:\@">36 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">DECEMBER 1, 2023</td>
+    <td style="mso-number-format:\@">12:00:00PM</td>
+    <td style="mso-number-format:\@">MAKL</td>
+    <td style="mso-number-format:\@">MALE WARD</td>
+    <td style="mso-number-format:\@">41</td>
+    <td style="text-align: right;mso-number-format:\@">11 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">1049/2023</td>
+    <td style="mso-number-format:\@">MARGARET MUTHONI MUNYINGI</td>
+    <td style="mso-number-format:\@">80 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">DECEMBER 3, 2023</td>
+    <td style="mso-number-format:\@">01:00:00PM</td>
+    <td style="mso-number-format:\@">NHIF NATIONAL SCHEME INPATIENT</td>
+    <td style="mso-number-format:\@">FEMALE WARD</td>
+    <td style="mso-number-format:\@">48</td>
+    <td style="text-align: right;mso-number-format:\@">9 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">123/2022</td>
+    <td style="mso-number-format:\@">CHARLES NGATIA NDUNGU</td>
+    <td style="mso-number-format:\@">77 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">DECEMBER 3, 2023</td>
+    <td style="mso-number-format:\@">03:22:00PM</td>
+    <td style="mso-number-format:\@">NHIF NATIONAL SCHEME INPATIENT</td>
+    <td style="mso-number-format:\@">MALE WARD</td>
+    <td style="mso-number-format:\@">31</td>
+    <td style="text-align: right;mso-number-format:\@">9 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">1050/2023</td>
+    <td style="mso-number-format:\@">MIRIAN ADAN KOCHALE</td>
+    <td style="mso-number-format:\@">45 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">DECEMBER 4, 2023</td>
+    <td style="mso-number-format:\@">09:49:00AM</td>
+    <td style="mso-number-format:\@">NHIF NATIONAL SCHEME INPATIENT</td>
+    <td style="mso-number-format:\@">FEMALE WARD</td>
+    <td style="mso-number-format:\@">31</td>
+    <td style="text-align: right;mso-number-format:\@">8 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">154/2023</td>
+    <td style="mso-number-format:\@">GEOFFREY MURUNGA MRUKARIA</td>
+    <td style="mso-number-format:\@">69 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">DECEMBER 5, 2023</td>
+    <td style="mso-number-format:\@">10:00:00AM</td>
+    <td style="mso-number-format:\@">NHIF </td>
+    <td style="mso-number-format:\@">MALE WARD</td>
+    <td style="mso-number-format:\@">48</td>
+    <td style="text-align: right;mso-number-format:\@">7 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">1057/2023</td>
+    <td style="mso-number-format:\@">REGINA GATHONI .</td>
+    <td style="mso-number-format:\@">74 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">DECEMBER 5, 2023</td>
+    <td style="mso-number-format:\@">03:28:00PM</td>
+    <td style="mso-number-format:\@">CASH</td>
+    <td style="mso-number-format:\@">FEMALE WARD</td>
+    <td style="mso-number-format:\@">23</td>
+    <td style="text-align: right;mso-number-format:\@">7 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">1059/2023</td>
+    <td style="mso-number-format:\@">MUMBI MURIGO .</td>
+    <td style="mso-number-format:\@">77 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">DECEMBER 5, 2023</td>
+    <td style="mso-number-format:\@">06:46:00PM</td>
+    <td style="mso-number-format:\@">NHIF NATIONAL SCHEME INPATIENT</td>
+    <td style="mso-number-format:\@">FEMALE WARD</td>
+    <td style="mso-number-format:\@">33</td>
+    <td style="text-align: right;mso-number-format:\@">7 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">127/2023</td>
+    <td style="mso-number-format:\@">SOLOMON NGUNJIRI WAMBUGU</td>
+    <td style="mso-number-format:\@">73 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">DECEMBER 5, 2023</td>
+    <td style="mso-number-format:\@">08:00:00PM</td>
+    <td style="mso-number-format:\@">NHIF </td>
+    <td style="mso-number-format:\@">MALE WARD</td>
+    <td style="mso-number-format:\@">40</td>
+    <td style="text-align: right;mso-number-format:\@">7 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">1056/2023</td>
+    <td style="mso-number-format:\@">GEOFFREY MURUNGA NTURUKARIA</td>
+    <td style="mso-number-format:\@">69 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">DECEMBER 5, 2023</td>
+    <td style="mso-number-format:\@">11:00:00PM</td>
+    <td style="mso-number-format:\@">NHIF NATIONAL SCHEME INPATIENT</td>
+    <td style="mso-number-format:\@">MALE WARD</td>
+    <td style="mso-number-format:\@">52</td>
+    <td style="text-align: right;mso-number-format:\@">7 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">1064/2023</td>
+    <td style="mso-number-format:\@">FAUSTINE NJERIANO NJERIANO</td>
+    <td style="mso-number-format:\@">22 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">DECEMBER 6, 2023</td>
+    <td style="mso-number-format:\@">10:00:00AM</td>
+    <td style="mso-number-format:\@">NHIF </td>
+    <td style="mso-number-format:\@">MATERNITY WARD</td>
+    <td style="mso-number-format:\@">35</td>
+    <td style="text-align: right;mso-number-format:\@">6 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">1061/2023</td>
+    <td style="mso-number-format:\@">KARAU GACHAGUA RIRIANI</td>
+    <td style="mso-number-format:\@">70 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">DECEMBER 6, 2023</td>
+    <td style="mso-number-format:\@">11:42:00AM</td>
+    <td style="mso-number-format:\@">CASH</td>
+    <td style="mso-number-format:\@">MALE WARD</td>
+    <td style="mso-number-format:\@">36</td>
+    <td style="text-align: right;mso-number-format:\@">6 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">1063/2023</td>
+    <td style="mso-number-format:\@">SEBERINA H NKIROTE MWENDA</td>
+    <td style="mso-number-format:\@">71 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">DECEMBER 6, 2023</td>
+    <td style="mso-number-format:\@">01:25:00PM</td>
+    <td style="mso-number-format:\@">NHIF </td>
+    <td style="mso-number-format:\@">FEMALE WARD</td>
+    <td style="mso-number-format:\@">45</td>
+    <td style="text-align: right;mso-number-format:\@">6 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">1069/2023</td>
+    <td style="mso-number-format:\@">GAHAN-NATE SINYATI LODOMPUI</td>
+    <td style="mso-number-format:\@">5 DAYS</td>
+    <td style="mso-number-format:\@">DECEMBER 7, 2023</td>
+    <td style="mso-number-format:\@">04:00:00AM</td>
+    <td style="mso-number-format:\@">CASH</td>
+    <td style="mso-number-format:\@">PAEDRATRIC WARD</td>
+    <td style="mso-number-format:\@">16</td>
+    <td style="text-align: right;mso-number-format:\@">5 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">1067/2023</td>
+    <td style="mso-number-format:\@">MARY  WANJIKU WAMUYU</td>
+    <td style="mso-number-format:\@">42 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">DECEMBER 7, 2023</td>
+    <td style="mso-number-format:\@">01:18:00PM</td>
+    <td style="mso-number-format:\@">NHIF </td>
+    <td style="mso-number-format:\@">FEMALE WARD</td>
+    <td style="mso-number-format:\@">51</td>
+    <td style="text-align: right;mso-number-format:\@">5 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">1070/2023</td>
+    <td style="mso-number-format:\@">DAVID KABIRU .</td>
+    <td style="mso-number-format:\@">76 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">DECEMBER 7, 2023</td>
+    <td style="mso-number-format:\@">05:00:00PM</td>
+    <td style="mso-number-format:\@">NHIF NATIONAL SCHEME INPATIENT</td>
+    <td style="mso-number-format:\@">MALE WARD</td>
+    <td style="mso-number-format:\@">46</td>
+    <td style="text-align: right;mso-number-format:\@">5 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">1072/2023</td>
+    <td style="mso-number-format:\@">MARGARET MUTHONI KIBOI</td>
+    <td style="mso-number-format:\@">91 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">DECEMBER 8, 2023</td>
+    <td style="mso-number-format:\@">02:00:00PM</td>
+    <td style="mso-number-format:\@">CASH</td>
+    <td style="mso-number-format:\@">FEMALE WARD</td>
+    <td style="mso-number-format:\@">69</td>
+    <td style="text-align: right;mso-number-format:\@">4 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">493/2023</td>
+    <td style="mso-number-format:\@">EVANGILINE KINANU MUNGANIA</td>
+    <td style="mso-number-format:\@">78 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">DECEMBER 9, 2023</td>
+    <td style="mso-number-format:\@">12:30:00PM</td>
+    <td style="mso-number-format:\@">NHIF </td>
+    <td style="mso-number-format:\@">FEMALE WARD</td>
+    <td style="mso-number-format:\@">14</td>
+    <td style="text-align: right;mso-number-format:\@">3 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">943/2023</td>
+    <td style="mso-number-format:\@">JOHN NDARUGA NDAMBO</td>
+    <td style="mso-number-format:\@">87 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">DECEMBER 9, 2023</td>
+    <td style="mso-number-format:\@">01:07:00PM</td>
+    <td style="mso-number-format:\@">NHIF </td>
+    <td style="mso-number-format:\@">MALE WARD</td>
+    <td style="mso-number-format:\@">32</td>
+    <td style="text-align: right;mso-number-format:\@">3 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">1074/2023</td>
+    <td style="mso-number-format:\@">PRISCILLA  NYAKIO .</td>
+    <td style="mso-number-format:\@">88 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">DECEMBER 9, 2023</td>
+    <td style="mso-number-format:\@">08:21:00PM</td>
+    <td style="mso-number-format:\@">CASH</td>
+    <td style="mso-number-format:\@">FEMALE WARD</td>
+    <td style="mso-number-format:\@">70</td>
+    <td style="text-align: right;mso-number-format:\@">3 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">1075/2023</td>
+    <td style="mso-number-format:\@">ZAWERIA MUYA WANJIRU</td>
+    <td style="mso-number-format:\@">18 YRS 5 MONTHS</td>
+    <td style="mso-number-format:\@">DECEMBER 9, 2023</td>
+    <td style="mso-number-format:\@">11:30:00PM</td>
+    <td style="mso-number-format:\@">NHIF NATIONAL SCHEME INPATIENT</td>
+    <td style="mso-number-format:\@">FEMALE WARD</td>
+    <td style="mso-number-format:\@">64</td>
+    <td style="text-align: right;mso-number-format:\@">3 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">1076/2023</td>
+    <td style="mso-number-format:\@">TERESA MUKAMI .</td>
+    <td style="mso-number-format:\@">70 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">DECEMBER 10, 2023</td>
+    <td style="mso-number-format:\@">12:00:00PM</td>
+    <td style="mso-number-format:\@">CASH</td>
+    <td style="mso-number-format:\@">FEMALE WARD</td>
+    <td style="mso-number-format:\@">63</td>
+    <td style="text-align: right;mso-number-format:\@">2 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">1077/2023</td>
+    <td style="mso-number-format:\@">NINA  GATHIGIA KAMATU</td>
+    <td style="mso-number-format:\@">5 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">DECEMBER 10, 2023</td>
+    <td style="mso-number-format:\@">07:00:00PM</td>
+    <td style="mso-number-format:\@">NHIF </td>
+    <td style="mso-number-format:\@">PAEDRATRIC WARD</td>
+    <td style="mso-number-format:\@">30</td>
+    <td style="text-align: right;mso-number-format:\@">2 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">1078/2023</td>
+    <td style="mso-number-format:\@">LISA WAMBURA .</td>
+    <td style="mso-number-format:\@">3 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">DECEMBER 10, 2023</td>
+    <td style="mso-number-format:\@">07:00:00PM</td>
+    <td style="mso-number-format:\@">NHIF </td>
+    <td style="mso-number-format:\@">PAEDRATRIC WARD</td>
+    <td style="mso-number-format:\@">20</td>
+    <td style="text-align: right;mso-number-format:\@">2 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">1020/2023</td>
+    <td style="mso-number-format:\@">CHRISTINE WAMBUI WANJIRU</td>
+    <td style="mso-number-format:\@">28 YRS 11 MONTHS</td>
+    <td style="mso-number-format:\@">DECEMBER 10, 2023</td>
+    <td style="mso-number-format:\@">09:50:00PM</td>
+    <td style="mso-number-format:\@">CASH</td>
+    <td style="mso-number-format:\@">FEMALE WARD</td>
+    <td style="mso-number-format:\@">68</td>
+    <td style="text-align: right;mso-number-format:\@">2 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">1079/2023</td>
+    <td style="mso-number-format:\@">JERUSHA  KAANIRU NYAMU</td>
+    <td style="mso-number-format:\@">45 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">DECEMBER 11, 2023</td>
+    <td style="mso-number-format:\@">06:11:00AM</td>
+    <td style="mso-number-format:\@">NHIF NATIONAL SCHEME INPATIENT</td>
+    <td style="mso-number-format:\@">FEMALE WARD</td>
+    <td style="mso-number-format:\@">66</td>
+    <td style="text-align: right;mso-number-format:\@">1 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">107/2020</td>
+    <td style="mso-number-format:\@">SR ANASTASIA GICUKU NYAGA</td>
+    <td style="mso-number-format:\@">52 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">DECEMBER 11, 2023</td>
+    <td style="mso-number-format:\@">09:00:00AM</td>
+    <td style="mso-number-format:\@">NHIF </td>
+    <td style="mso-number-format:\@">FEMALE WARD</td>
+    <td style="mso-number-format:\@">60</td>
+    <td style="text-align: right;mso-number-format:\@">1 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">036/2023</td>
+    <td style="mso-number-format:\@">JOSPHAT WAWERU .</td>
+    <td style="mso-number-format:\@">21 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">DECEMBER 11, 2023</td>
+    <td style="mso-number-format:\@">03:00:00PM</td>
+    <td style="mso-number-format:\@">NHIF </td>
+    <td style="mso-number-format:\@">MALE WARD</td>
+    <td style="mso-number-format:\@">50</td>
+    <td style="text-align: right;mso-number-format:\@">1 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">1081/2023</td>
+    <td style="mso-number-format:\@">JOAN WAMBUI MUTHONI</td>
+    <td style="mso-number-format:\@">24 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">DECEMBER 11, 2023</td>
+    <td style="mso-number-format:\@">03:51:00PM</td>
+    <td style="mso-number-format:\@">NHIF </td>
+    <td style="mso-number-format:\@">FEMALE WARD</td>
+    <td style="mso-number-format:\@">62</td>
+    <td style="text-align: right;mso-number-format:\@">1 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">1082/2023</td>
+    <td style="mso-number-format:\@">RUTH WAIRIMU .</td>
+    <td style="mso-number-format:\@">31 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">DECEMBER 11, 2023</td>
+    <td style="mso-number-format:\@">06:00:00PM</td>
+    <td style="mso-number-format:\@">NHIF </td>
+    <td style="mso-number-format:\@">MATERNITY WARD</td>
+    <td style="mso-number-format:\@">07</td>
+    <td style="text-align: right;mso-number-format:\@">1 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">1083/2023</td>
+    <td style="mso-number-format:\@">NANCY WANDIA .</td>
+    <td style="mso-number-format:\@">49 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">DECEMBER 11, 2023</td>
+    <td style="mso-number-format:\@">07:30:00PM</td>
+    <td style="mso-number-format:\@">CASH</td>
+    <td style="mso-number-format:\@">FEMALE WARD</td>
+    <td style="mso-number-format:\@">50</td>
+    <td style="text-align: right;mso-number-format:\@">1 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">1084/2023</td>
+    <td style="mso-number-format:\@">IFTIZAAM ABRIRIZAK .</td>
+    <td style="mso-number-format:\@">3 YRS 11 MONTHS 11 DAY(S)</td>
+    <td style="mso-number-format:\@">DECEMBER 11, 2023</td>
+    <td style="mso-number-format:\@">07:48:00PM</td>
+    <td style="mso-number-format:\@">NHIF </td>
+    <td style="mso-number-format:\@">PAEDRATRIC WARD</td>
+    <td style="mso-number-format:\@">33</td>
+    <td style="text-align: right;mso-number-format:\@">1 DAY(S)</td>
+</tr>
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td style="mso-number-format:\@">238/2023</td>
+    <td style="mso-number-format:\@">ZAYDEN MAXWEL KIPTOO</td>
+    <td style="mso-number-format:\@">9 MONTHS</td>
+    <td style="mso-number-format:\@">DECEMBER 11, 2023</td>
+    <td style="mso-number-format:\@">08:53:00PM</td>
+    <td style="mso-number-format:\@">NHIF </td>
+    <td style="mso-number-format:\@">PAEDRATRIC WARD</td>
+    <td style="mso-number-format:\@">19</td>
+    <td style="text-align: right;mso-number-format:\@">1 DAY(S)</td>
+</tr>
+
+
+<tr title="" onmouseover="changeColor(this,true)" onmouseout="changeColor(this,false)">
+    <td colspan="8" style="text-align: right">GRAND TOTAL NUMBER OF DAYS ADMITTED</td>
+    <td style="text-align: right">1977 DAY(S)</td>
+</tr>
+
+</tbody></table>
+<h3>TOTAL NUMBER OF ADMISSIONS : 57</h3>
